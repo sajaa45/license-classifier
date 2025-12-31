@@ -1,0 +1,5602 @@
+[
+  {
+    "id": "389-exception",
+    "true_spdx": "389-exception",
+    "top1_pred": "mif-exception",
+    "top1_score": 0.6691,
+    "top5_candidates": [
+      {
+        "spdx": "mif-exception",
+        "score": 0.6691
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.6665
+      },
+      {
+        "spdx": "eCos-exception-2.0",
+        "score": 0.6469
+      },
+      {
+        "spdx": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+        "score": 0.5699
+      },
+      {
+        "spdx": "LicenseRef-scancode-dune-exception",
+        "score": 0.5562
+      }
+    ]
+  },
+  {
+    "id": "ada-linking-exception",
+    "true_spdx": "GNAT-exception",
+    "top1_pred": "GNU-compiler-exception",
+    "top1_score": 0.8764,
+    "top5_candidates": [
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.8764
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.8728
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+        "score": 0.8638
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.8608
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.8418
+      }
+    ]
+  },
+  {
+    "id": "alfresco-exception-0.5",
+    "true_spdx": "LicenseRef-scancode-alfresco-exception-0.5",
+    "top1_pred": "LicenseRef-scancode-mysql-floss-exception-2.0",
+    "top1_score": 0.9145,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.9145
+      },
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.8139
+      },
+      {
+        "spdx": "RRDtool-FLOSS-exception-2.0",
+        "score": 0.7995
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.7781
+      },
+      {
+        "spdx": "LicenseRef-scancode-oracle-mysql-foss-exception2.0",
+        "score": 0.6773
+      }
+    ]
+  },
+  {
+    "id": "apache-patent-exception",
+    "true_spdx": "mxml-exception",
+    "top1_pred": "LLVM-exception",
+    "top1_score": 0.8922,
+    "top5_candidates": [
+      {
+        "spdx": "LLVM-exception",
+        "score": 0.8922
+      },
+      {
+        "spdx": "Swift-exception",
+        "score": 0.5909
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.2",
+        "score": 0.4261
+      },
+      {
+        "spdx": "LicenseRef-scancode-pretalx-exception-3.0",
+        "score": 0.3921
+      },
+      {
+        "spdx": "LicenseRef-scancode-ekiga-exception-2.0-plus",
+        "score": 0.3921
+      }
+    ]
+  },
+  {
+    "id": "apple-runtime-library-exception",
+    "true_spdx": "Swift-exception",
+    "top1_pred": "LicenseRef-scancode-compuphase-linking-exception",
+    "top1_score": 0.7102,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-compuphase-linking-exception",
+        "score": 0.7102
+      },
+      {
+        "spdx": "fmt-exception",
+        "score": 0.6611
+      },
+      {
+        "spdx": "LLVM-exception",
+        "score": 0.6368
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.5548
+      },
+      {
+        "spdx": "LicenseRef-scancode-commons-clause",
+        "score": 0.547
+      }
+    ]
+  },
+  {
+    "id": "apromore-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-apromore-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-broadcom-unmodified-exception",
+    "top1_score": 0.4093,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.4093
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.4093
+      },
+      {
+        "spdx": "LicenseRef-scancode-kfqf-accepted-gpl",
+        "score": 0.3731
+      },
+      {
+        "spdx": "LicenseRef-scancode-bcm-linking-exception-2.0",
+        "score": 0.3534
+      },
+      {
+        "spdx": "LicenseRef-scancode-vcvrack-exception-to-gpl-3.0",
+        "score": 0.3512
+      }
+    ]
+  },
+  {
+    "id": "aptana-exception-3.0",
+    "true_spdx": "LicenseRef-scancode-aptana-exception-3.0",
+    "top1_pred": "DigiRule-FOSS-exception",
+    "top1_score": 0.6242,
+    "top5_candidates": [
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.6242
+      },
+      {
+        "spdx": "LicenseRef-scancode-alfresco-exception-0.5",
+        "score": 0.6209
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.6108
+      },
+      {
+        "spdx": "LicenseRef-scancode-sencha-dev-floss-exception",
+        "score": 0.6036
+      },
+      {
+        "spdx": "LicenseRef-scancode-sencha-app-floss-exception",
+        "score": 0.6011
+      }
+    ]
+  },
+  {
+    "id": "asn1cc-exception-gpl-2.0",
+    "true_spdx": "LicenseRef-scancode-asn1cc-exception-gpl-2.0",
+    "top1_pred": "GPL-2.0-with-autoconf-exception",
+    "top1_score": 0.7037,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-2.0-with-autoconf-exception",
+        "score": 0.7037
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.6994
+      },
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.6788
+      },
+      {
+        "spdx": "WxWindows-exception-3.1",
+        "score": 0.6057
+      },
+      {
+        "spdx": "UBDL-exception",
+        "score": 0.576
+      }
+    ]
+  },
+  {
+    "id": "asterisk-exception",
+    "true_spdx": "Asterisk-exception",
+    "top1_pred": "Asterisk-linking-protocols-exception",
+    "top1_score": 0.5788,
+    "top5_candidates": [
+      {
+        "spdx": "Asterisk-linking-protocols-exception",
+        "score": 0.5788
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.4793
+      },
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.4223
+      },
+      {
+        "spdx": "LicenseRef-scancode-syntext-serna-exception-1.0",
+        "score": 0.4067
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-gpl-2.0-plus",
+        "score": 0.3987
+      }
+    ]
+  },
+  {
+    "id": "asterisk-linking-protocols-exception",
+    "true_spdx": "Asterisk-linking-protocols-exception",
+    "top1_pred": "Asterisk-exception",
+    "top1_score": 0.5788,
+    "top5_candidates": [
+      {
+        "spdx": "Asterisk-exception",
+        "score": 0.5788
+      },
+      {
+        "spdx": "LicenseRef-scancode-ekiga-exception-2.0-plus",
+        "score": 0.5074
+      },
+      {
+        "spdx": "libpri-OpenH323-exception",
+        "score": 0.4433
+      },
+      {
+        "spdx": "Qt-GPL-exception-1.0",
+        "score": 0.4104
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-con-odbc-exception-2.0",
+        "score": 0.3753
+      }
+    ]
+  },
+  {
+    "id": "autoconf-exception-2.0",
+    "true_spdx": "Autoconf-exception-2.0",
+    "top1_pred": "Autoconf-exception-macro",
+    "top1_score": 0.8347,
+    "top5_candidates": [
+      {
+        "spdx": "Autoconf-exception-macro",
+        "score": 0.8347
+      },
+      {
+        "spdx": "Autoconf-exception-3.0",
+        "score": 0.8131
+      },
+      {
+        "spdx": "Autoconf-exception-generic-3.0",
+        "score": 0.7572
+      },
+      {
+        "spdx": "Autoconf-exception-generic",
+        "score": 0.6896
+      },
+      {
+        "spdx": "GPL-3.0-with-autoconf-exception",
+        "score": 0.6595
+      }
+    ]
+  },
+  {
+    "id": "autoconf-exception-3.0",
+    "true_spdx": "Autoconf-exception-3.0",
+    "top1_pred": "Autoconf-exception-2.0",
+    "top1_score": 0.8131,
+    "top5_candidates": [
+      {
+        "spdx": "Autoconf-exception-2.0",
+        "score": 0.8131
+      },
+      {
+        "spdx": "Autoconf-exception-generic-3.0",
+        "score": 0.7895
+      },
+      {
+        "spdx": "Autoconf-exception-macro",
+        "score": 0.7808
+      },
+      {
+        "spdx": "GPL-3.0-with-autoconf-exception",
+        "score": 0.777
+      },
+      {
+        "spdx": "Autoconf-exception-generic",
+        "score": 0.682
+      }
+    ]
+  },
+  {
+    "id": "autoconf-macro-exception",
+    "true_spdx": "Autoconf-exception-macro",
+    "top1_pred": "Autoconf-exception-2.0",
+    "top1_score": 0.8347,
+    "top5_candidates": [
+      {
+        "spdx": "Autoconf-exception-2.0",
+        "score": 0.8347
+      },
+      {
+        "spdx": "Autoconf-exception-generic-3.0",
+        "score": 0.7906
+      },
+      {
+        "spdx": "Autoconf-exception-3.0",
+        "score": 0.7808
+      },
+      {
+        "spdx": "Autoconf-exception-generic",
+        "score": 0.7134
+      },
+      {
+        "spdx": "GPL-3.0-with-autoconf-exception",
+        "score": 0.6552
+      }
+    ]
+  },
+  {
+    "id": "autoconf-simple-exception-2.0",
+    "true_spdx": "Autoconf-exception-generic",
+    "top1_pred": "Autoconf-exception-generic-3.0",
+    "top1_score": 0.9126,
+    "top5_candidates": [
+      {
+        "spdx": "Autoconf-exception-generic-3.0",
+        "score": 0.9126
+      },
+      {
+        "spdx": "Libtool-exception",
+        "score": 0.7733
+      },
+      {
+        "spdx": "LicenseRef-scancode-libtool-exception-lgpl",
+        "score": 0.7653
+      },
+      {
+        "spdx": "GPL-2.0-with-autoconf-exception",
+        "score": 0.7271
+      },
+      {
+        "spdx": "Autoconf-exception-macro",
+        "score": 0.7134
+      }
+    ]
+  },
+  {
+    "id": "autoconf-simple-exception",
+    "true_spdx": "Autoconf-exception-generic-3.0",
+    "top1_pred": "Autoconf-exception-generic",
+    "top1_score": 0.9126,
+    "top5_candidates": [
+      {
+        "spdx": "Autoconf-exception-generic",
+        "score": 0.9126
+      },
+      {
+        "spdx": "Autoconf-exception-macro",
+        "score": 0.7906
+      },
+      {
+        "spdx": "Autoconf-exception-3.0",
+        "score": 0.7895
+      },
+      {
+        "spdx": "Autoconf-exception-2.0",
+        "score": 0.7572
+      },
+      {
+        "spdx": "GPL-3.0-with-autoconf-exception",
+        "score": 0.7144
+      }
+    ]
+  },
+  {
+    "id": "autoopts-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-autoopts-exception-2.0",
+    "top1_pred": "gnu-javamail-exception",
+    "top1_score": 0.731,
+    "top5_candidates": [
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.731
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.7145
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+        "score": 0.7097
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.7012
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.6989
+      }
+    ]
+  },
+  {
+    "id": "avisynth-c-interface-exception",
+    "true_spdx": "LicenseRef-scancode-avisynth-c-exception",
+    "top1_pred": "LicenseRef-scancode-avisynth-linking-exception",
+    "top1_score": 0.9091,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-avisynth-linking-exception",
+        "score": 0.9091
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.6247
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.6247
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.6193
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.5991
+      }
+    ]
+  },
+  {
+    "id": "avisynth-linking-exception",
+    "true_spdx": "LicenseRef-scancode-avisynth-linking-exception",
+    "top1_pred": "LicenseRef-scancode-avisynth-c-exception",
+    "top1_score": 0.9091,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-avisynth-c-exception",
+        "score": 0.9091
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.6869
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.6805
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.6472
+      },
+      {
+        "spdx": "LicenseRef-scancode-rxtx-exception-lgpl-2.1",
+        "score": 0.6303
+      }
+    ]
+  },
+  {
+    "id": "bacula-exception",
+    "true_spdx": "LicenseRef-scancode-bacula-exception",
+    "top1_pred": "LicenseRef-scancode-pretalx-exception-3.0",
+    "top1_score": 0.5573,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-pretalx-exception-3.0",
+        "score": 0.5573
+      },
+      {
+        "spdx": "LicenseRef-scancode-pretix-exception-3.0",
+        "score": 0.5231
+      },
+      {
+        "spdx": "LicenseRef-scancode-viewflow-agpl-3.0-exception",
+        "score": 0.5218
+      },
+      {
+        "spdx": "LicenseRef-scancode-liberation-font-exception",
+        "score": 0.501
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-agpl3.0monit",
+        "score": 0.4436
+      }
+    ]
+  },
+  {
+    "id": "bash-exception-gpl",
+    "true_spdx": "LicenseRef-scancode-bash-exception-gpl-2.0",
+    "top1_pred": "UBDL-exception",
+    "top1_score": 0.3313,
+    "top5_candidates": [
+      {
+        "spdx": "UBDL-exception",
+        "score": 0.3313
+      },
+      {
+        "spdx": "LicenseRef-scancode-magpie-exception-1.0",
+        "score": 0.256
+      },
+      {
+        "spdx": "LicenseRef-scancode-viewflow-agpl-3.0-exception",
+        "score": 0.2493
+      },
+      {
+        "spdx": "QPL-1.0-INRIA-2004-exception",
+        "score": 0.1797
+      },
+      {
+        "spdx": "LicenseRef-scancode-ekiga-exception-2.0-plus",
+        "score": 0.1574
+      }
+    ]
+  },
+  {
+    "id": "bison-exception-2.0",
+    "true_spdx": "Bison-exception-1.24",
+    "top1_pred": "Bison-exception-2.2",
+    "top1_score": 0.7459,
+    "top5_candidates": [
+      {
+        "spdx": "Bison-exception-2.2",
+        "score": 0.7459
+      },
+      {
+        "spdx": "mif-exception",
+        "score": 0.451
+      },
+      {
+        "spdx": "Texinfo-exception",
+        "score": 0.4455
+      },
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.4003
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.3829
+      }
+    ]
+  },
+  {
+    "id": "bison-exception-2.2",
+    "true_spdx": "Bison-exception-2.2",
+    "top1_pred": "Bison-exception-1.24",
+    "top1_score": 0.7459,
+    "top5_candidates": [
+      {
+        "spdx": "Bison-exception-1.24",
+        "score": 0.7459
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.4358
+      },
+      {
+        "spdx": "eCos-2.0",
+        "score": 0.3698
+      },
+      {
+        "spdx": "LicenseRef-scancode-asn1cc-exception-gpl-2.0",
+        "score": 0.3678
+      },
+      {
+        "spdx": "GPL-2.0-with-autoconf-exception",
+        "score": 0.3675
+      }
+    ]
+  },
+  {
+    "id": "bootloader-exception",
+    "true_spdx": "Bootloader-exception",
+    "top1_pred": "LicenseRef-scancode-unlimited-link-exception-gpl",
+    "top1_score": 0.7557,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.7557
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.7548
+      },
+      {
+        "spdx": "GCC-exception-2.0",
+        "score": 0.726
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.7213
+      },
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.6089
+      }
+    ]
+  },
+  {
+    "id": "broadcom-linking-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-bcm-linking-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-broadcom-linking-unmodified",
+    "top1_score": 0.7957,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.7957
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.7957
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.7125
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.6583
+      },
+      {
+        "spdx": "Independent-modules-exception",
+        "score": 0.6558
+      }
+    ]
+  },
+  {
+    "id": "broadcom-linking-unmodified",
+    "true_spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+    "top1_pred": "LicenseRef-scancode-broadcom-unmodified-exception",
+    "top1_score": 1.0,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 1.0
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.9155
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.82
+      },
+      {
+        "spdx": "Independent-modules-exception",
+        "score": 0.8161
+      },
+      {
+        "spdx": "LicenseRef-scancode-bcm-linking-exception-2.0",
+        "score": 0.7957
+      }
+    ]
+  },
+  {
+    "id": "broadcom-unmodified-exception",
+    "true_spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+    "top1_pred": "LicenseRef-scancode-broadcom-linking-unmodified",
+    "top1_score": 1.0,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 1.0
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.9155
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.82
+      },
+      {
+        "spdx": "Independent-modules-exception",
+        "score": 0.8161
+      },
+      {
+        "spdx": "LicenseRef-scancode-bcm-linking-exception-2.0",
+        "score": 0.7957
+      }
+    ]
+  },
+  {
+    "id": "cgal-linking-exception",
+    "true_spdx": "CGAL-linking-exception",
+    "top1_pred": "gnu-javamail-exception",
+    "top1_score": 0.6603,
+    "top5_candidates": [
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.6603
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.6548
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.6492
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.6386
+      },
+      {
+        "spdx": "LicenseRef-scancode-ekiga-exception-2.0-plus",
+        "score": 0.6279
+      }
+    ]
+  },
+  {
+    "id": "civicrm-exception-to-agpl-3.0",
+    "true_spdx": "LicenseRef-scancode-civicrm-exception-to-agpl-3.0",
+    "top1_pred": "romic-exception",
+    "top1_score": 0.6676,
+    "top5_candidates": [
+      {
+        "spdx": "romic-exception",
+        "score": 0.6676
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.6412
+      },
+      {
+        "spdx": "LicenseRef-scancode-magpie-exception-1.0",
+        "score": 0.615
+      },
+      {
+        "spdx": "LicenseRef-scancode-viewflow-agpl-3.0-exception",
+        "score": 0.6054
+      },
+      {
+        "spdx": "Autoconf-exception-generic-3.0",
+        "score": 0.5723
+      }
+    ]
+  },
+  {
+    "id": "classpath-exception-2.0",
+    "true_spdx": "Classpath-exception-2.0",
+    "top1_pred": "Fawkes-Runtime-exception",
+    "top1_score": 0.9455,
+    "top5_candidates": [
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.9455
+      },
+      {
+        "spdx": "Independent-modules-exception",
+        "score": 0.8555
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.8545
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.8506
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.7971
+      }
+    ]
+  },
+  {
+    "id": "clause-6-exception-lgpl-2.1",
+    "true_spdx": "polyparse-exception",
+    "top1_pred": "LicenseRef-scancode-libwebsockets-exception",
+    "top1_score": 0.6131,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-libwebsockets-exception",
+        "score": 0.6131
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.6078
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.6002
+      },
+      {
+        "spdx": "OCaml-LGPL-linking-exception",
+        "score": 0.5896
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-binary-linking",
+        "score": 0.5827
+      }
+    ]
+  },
+  {
+    "id": "clisp-exception-2.0",
+    "true_spdx": "CLISP-exception-2.0",
+    "top1_pred": "LLGPL",
+    "top1_score": 0.5967,
+    "top5_candidates": [
+      {
+        "spdx": "LLGPL",
+        "score": 0.5967
+      },
+      {
+        "spdx": "LicenseRef-scancode-rxtx-exception-lgpl-2.1",
+        "score": 0.4398
+      },
+      {
+        "spdx": "LicenseRef-scancode-syntext-serna-exception-1.0",
+        "score": 0.4356
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.4256
+      },
+      {
+        "spdx": "freertos-exception-2.0",
+        "score": 0.4175
+      }
+    ]
+  },
+  {
+    "id": "clojure-exception-to-gpl-3.0",
+    "true_spdx": "LicenseRef-scancode-clojure-exception-to-gpl-3.0",
+    "top1_pred": "GPL-3.0-linking-exception",
+    "top1_score": 0.9734,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-3.0-linking-exception",
+        "score": 0.9734
+      },
+      {
+        "spdx": "GPL-3.0-linking-source-exception",
+        "score": 0.9369
+      },
+      {
+        "spdx": "LicenseRef-scancode-openpace-exception-gpl",
+        "score": 0.8436
+      },
+      {
+        "spdx": "GPL-3.0-389-ds-base-exception",
+        "score": 0.8201
+      },
+      {
+        "spdx": "romic-exception",
+        "score": 0.69
+      }
+    ]
+  },
+  {
+    "id": "cockroachdb-use-grant-for-bsl-1.1",
+    "true_spdx": "LicenseRef-scancode-cockroachdb-use-grant-bsl-1.1",
+    "top1_pred": "LicenseRef-scancode-commons-clause",
+    "top1_score": 0.4673,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-commons-clause",
+        "score": 0.4673
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+        "score": 0.4008
+      },
+      {
+        "spdx": "LicenseRef-scancode-drakvuf-exception-2.0",
+        "score": 0.3368
+      },
+      {
+        "spdx": "LicenseRef-scancode-pretalx-exception-3.0",
+        "score": 0.3052
+      },
+      {
+        "spdx": "LicenseRef-scancode-pretix-exception-3.0",
+        "score": 0.2689
+      }
+    ]
+  },
+  {
+    "id": "codelite-exception-to-gpl",
+    "true_spdx": "LicenseRef-scancode-codelite-exception-to-gpl",
+    "top1_pred": "LicenseRef-scancode-vcvrack-exception-to-gpl-3.0",
+    "top1_score": 0.4821,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-vcvrack-exception-to-gpl-3.0",
+        "score": 0.4821
+      },
+      {
+        "spdx": "LicenseRef-scancode-qt-qca-exception-2.0",
+        "score": 0.4778
+      },
+      {
+        "spdx": "GStreamer-exception-2008",
+        "score": 0.4757
+      },
+      {
+        "spdx": "LicenseRef-scancode-upx-exception-2.0-plus",
+        "score": 0.3898
+      },
+      {
+        "spdx": "GStreamer-exception-2005",
+        "score": 0.3798
+      }
+    ]
+  },
+  {
+    "id": "commons-clause",
+    "true_spdx": "LicenseRef-scancode-commons-clause",
+    "top1_pred": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+    "top1_score": 0.476,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.476
+      },
+      {
+        "spdx": "LicenseRef-scancode-cockroachdb-use-grant-bsl-1.1",
+        "score": 0.4673
+      },
+      {
+        "spdx": "LicenseRef-scancode-syntext-serna-exception-1.0",
+        "score": 0.4631
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.3679
+      },
+      {
+        "spdx": "LicenseRef-scancode-pretix-exception-3.0",
+        "score": 0.3663
+      }
+    ]
+  },
+  {
+    "id": "compuphase-linking-exception",
+    "true_spdx": "LicenseRef-scancode-compuphase-linking-exception",
+    "top1_pred": "Swift-exception",
+    "top1_score": 0.7102,
+    "top5_candidates": [
+      {
+        "spdx": "Swift-exception",
+        "score": 0.7102
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.5604
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.534
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.4909
+      },
+      {
+        "spdx": "LicenseRef-scancode-qcad-exception-gpl",
+        "score": 0.4555
+      }
+    ]
+  },
+  {
+    "id": "corporate-accountability-commercial-1.1",
+    "true_spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+    "top1_pred": "LicenseRef-scancode-npsl-exception-0.95",
+    "top1_score": 0.8584,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.8584
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.85
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.93",
+        "score": 0.8479
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.8442
+      },
+      {
+        "spdx": "LicenseRef-scancode-liberation-font-exception",
+        "score": 0.8086
+      }
+    ]
+  },
+  {
+    "id": "cups-apple-os-exception",
+    "true_spdx": "LicenseRef-scancode-cups-apple-os-exception",
+    "top1_pred": "Gmsh-exception",
+    "top1_score": 0.3927,
+    "top5_candidates": [
+      {
+        "spdx": "Gmsh-exception",
+        "score": 0.3927
+      },
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.3662
+      },
+      {
+        "spdx": "LicenseRef-scancode-sencha-app-floss-exception",
+        "score": 0.3613
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.3559
+      },
+      {
+        "spdx": "LicenseRef-scancode-sencha-dev-floss-exception",
+        "score": 0.3507
+      }
+    ]
+  },
+  {
+    "id": "cygwin-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-cygwin-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-cygwin-exception-3.0",
+    "top1_score": 0.8907,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-cygwin-exception-3.0",
+        "score": 0.8907
+      },
+      {
+        "spdx": "389-exception",
+        "score": 0.7547
+      },
+      {
+        "spdx": "LicenseRef-scancode-cygwin-exception-lgpl-3.0-plus",
+        "score": 0.5828
+      },
+      {
+        "spdx": "LicenseRef-scancode-openpace-exception-gpl",
+        "score": 0.5617
+      },
+      {
+        "spdx": "eCos-exception-2.0",
+        "score": 0.5187
+      }
+    ]
+  },
+  {
+    "id": "cygwin-exception-3.0",
+    "true_spdx": "LicenseRef-scancode-cygwin-exception-3.0",
+    "top1_pred": "LicenseRef-scancode-cygwin-exception-2.0",
+    "top1_score": 0.8907,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-cygwin-exception-2.0",
+        "score": 0.8907
+      },
+      {
+        "spdx": "389-exception",
+        "score": 0.7444
+      },
+      {
+        "spdx": "LicenseRef-scancode-cygwin-exception-lgpl-3.0-plus",
+        "score": 0.5975
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.5962
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.5957
+      }
+    ]
+  },
+  {
+    "id": "cygwin-exception-lgpl-3.0-plus",
+    "true_spdx": "LicenseRef-scancode-cygwin-exception-lgpl-3.0-plus",
+    "top1_pred": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+    "top1_score": 0.598,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.598
+      },
+      {
+        "spdx": "LicenseRef-scancode-cygwin-exception-3.0",
+        "score": 0.5975
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.582
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.5692
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.5577
+      }
+    ]
+  },
+  {
+    "id": "dbmx-foss-exception-1.0.9",
+    "true_spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+    "top1_pred": "DigiRule-FOSS-exception",
+    "top1_score": 0.7935,
+    "top5_candidates": [
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.7935
+      },
+      {
+        "spdx": "LicenseRef-scancode-alfresco-exception-0.5",
+        "score": 0.7781
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.7693
+      },
+      {
+        "spdx": "LicenseRef-scancode-sencha-app-floss-exception",
+        "score": 0.7029
+      },
+      {
+        "spdx": "RRDtool-FLOSS-exception-2.0",
+        "score": 0.6995
+      }
+    ]
+  },
+  {
+    "id": "dbmx-linking-exception-1.0",
+    "true_spdx": "LicenseRef-scancode-dbmx-linking-exception-1.0",
+    "top1_pred": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+    "top1_score": 0.6686,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.6686
+      },
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.6267
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.6141
+      },
+      {
+        "spdx": "LicenseRef-scancode-alfresco-exception-0.5",
+        "score": 0.6063
+      },
+      {
+        "spdx": "RRDtool-FLOSS-exception-2.0",
+        "score": 0.5707
+      }
+    ]
+  },
+  {
+    "id": "digirule-foss-exception",
+    "true_spdx": "DigiRule-FOSS-exception",
+    "top1_pred": "LicenseRef-scancode-mysql-floss-exception-2.0",
+    "top1_score": 0.8166,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.8166
+      },
+      {
+        "spdx": "LicenseRef-scancode-alfresco-exception-0.5",
+        "score": 0.8139
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.7935
+      },
+      {
+        "spdx": "RRDtool-FLOSS-exception-2.0",
+        "score": 0.7697
+      },
+      {
+        "spdx": "LicenseRef-scancode-oracle-mysql-foss-exception2.0",
+        "score": 0.7592
+      }
+    ]
+  },
+  {
+    "id": "drakvuf-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-drakvuf-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-npsl-exception-0.94",
+    "top1_score": 0.6929,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.6929
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.6912
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.93",
+        "score": 0.6828
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.677
+      },
+      {
+        "spdx": "LicenseRef-scancode-syntext-serna-exception-1.0",
+        "score": 0.6302
+      }
+    ]
+  },
+  {
+    "id": "dune-exception",
+    "true_spdx": "LicenseRef-scancode-dune-exception",
+    "top1_pred": "mif-exception",
+    "top1_score": 0.788,
+    "top5_candidates": [
+      {
+        "spdx": "mif-exception",
+        "score": 0.788
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.7499
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.7396
+      },
+      {
+        "spdx": "eCos-exception-2.0",
+        "score": 0.7335
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.7328
+      }
+    ]
+  },
+  {
+    "id": "ecma-no-patent",
+    "true_spdx": "LicenseRef-scancode-ecma-no-patent",
+    "top1_pred": "LicenseRef-scancode-openssl-nokia-psk-contribution",
+    "top1_score": 0.404,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-nokia-psk-contribution",
+        "score": 0.404
+      },
+      {
+        "spdx": "LicenseRef-scancode-commons-clause",
+        "score": 0.3622
+      },
+      {
+        "spdx": "CGAL-linking-exception",
+        "score": 0.3539
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.2334
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.2327
+      }
+    ]
+  },
+  {
+    "id": "ecos-exception-2.0",
+    "true_spdx": "eCos-exception-2.0",
+    "top1_pred": "mif-exception",
+    "top1_score": 0.8979,
+    "top5_candidates": [
+      {
+        "spdx": "mif-exception",
+        "score": 0.8979
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.816
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.8127
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.8124
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.8021
+      }
+    ]
+  },
+  {
+    "id": "ecos",
+    "true_spdx": "eCos-2.0",
+    "top1_pred": "mif-exception",
+    "top1_score": 0.774,
+    "top5_candidates": [
+      {
+        "spdx": "mif-exception",
+        "score": 0.774
+      },
+      {
+        "spdx": "eCos-exception-2.0",
+        "score": 0.7406
+      },
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.695
+      },
+      {
+        "spdx": "GPL-2.0-with-autoconf-exception",
+        "score": 0.6762
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.6334
+      }
+    ]
+  },
+  {
+    "id": "ekiga-exception-2.0-plus",
+    "true_spdx": "LicenseRef-scancode-ekiga-exception-2.0-plus",
+    "top1_pred": "CGAL-linking-exception",
+    "top1_score": 0.6279,
+    "top5_candidates": [
+      {
+        "spdx": "CGAL-linking-exception",
+        "score": 0.6279
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-gpl-2.0-plus",
+        "score": 0.5135
+      },
+      {
+        "spdx": "GPL-3.0-389-ds-base-exception",
+        "score": 0.484
+      },
+      {
+        "spdx": "LicenseRef-scancode-strongswan-exception",
+        "score": 0.4618
+      },
+      {
+        "spdx": "romic-exception",
+        "score": 0.4557
+      }
+    ]
+  },
+  {
+    "id": "erlang-otp-linking-exception",
+    "true_spdx": "erlang-otp-linking-exception",
+    "top1_pred": "romic-exception",
+    "top1_score": 0.5424,
+    "top5_candidates": [
+      {
+        "spdx": "romic-exception",
+        "score": 0.5424
+      },
+      {
+        "spdx": "GPL-3.0-linking-source-exception",
+        "score": 0.5134
+      },
+      {
+        "spdx": "LicenseRef-scancode-magpie-exception-1.0",
+        "score": 0.4953
+      },
+      {
+        "spdx": "GPL-3.0-linking-exception",
+        "score": 0.4879
+      },
+      {
+        "spdx": "LicenseRef-scancode-clojure-exception-to-gpl-3.0",
+        "score": 0.4845
+      }
+    ]
+  },
+  {
+    "id": "errbot-exception",
+    "true_spdx": "LicenseRef-scancode-errbot-exception",
+    "top1_pred": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+    "top1_score": 0.5049,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.5049
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.4911
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.4911
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.4249
+      },
+      {
+        "spdx": "Autoconf-exception-macro",
+        "score": 0.4004
+      }
+    ]
+  },
+  {
+    "id": "far-manager-exception",
+    "true_spdx": "LicenseRef-scancode-far-manager-exception",
+    "top1_pred": "LicenseRef-scancode-codelite-exception-to-gpl",
+    "top1_score": 0.3695,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-codelite-exception-to-gpl",
+        "score": 0.3695
+      },
+      {
+        "spdx": "GStreamer-exception-2008",
+        "score": 0.3571
+      },
+      {
+        "spdx": "LicenseRef-scancode-qt-qca-exception-2.0",
+        "score": 0.3471
+      },
+      {
+        "spdx": "LicenseRef-scancode-vcvrack-exception-to-gpl-3.0",
+        "score": 0.3435
+      },
+      {
+        "spdx": "LicenseRef-scancode-xenomai-gpl-exception",
+        "score": 0.3291
+      }
+    ]
+  },
+  {
+    "id": "fawkes-runtime-exception",
+    "true_spdx": "Fawkes-Runtime-exception",
+    "top1_pred": "Classpath-exception-2.0",
+    "top1_score": 0.9455,
+    "top5_candidates": [
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.9455
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.8159
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.8123
+      },
+      {
+        "spdx": "Independent-modules-exception",
+        "score": 0.8075
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.807
+      }
+    ]
+  },
+  {
+    "id": "fltk-exception-lgpl-2.0",
+    "true_spdx": "FLTK-exception",
+    "top1_pred": "Qwt-exception-1.0",
+    "top1_score": 0.5795,
+    "top5_candidates": [
+      {
+        "spdx": "Qwt-exception-1.0",
+        "score": 0.5795
+      },
+      {
+        "spdx": "LicenseRef-scancode-libwebsockets-exception",
+        "score": 0.5659
+      },
+      {
+        "spdx": "LLGPL",
+        "score": 0.426
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.4033
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.4017
+      }
+    ]
+  },
+  {
+    "id": "font-exception-gpl",
+    "true_spdx": "Font-exception-2.0",
+    "top1_pred": "GPL-2.0-with-font-exception",
+    "top1_score": 0.8616,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-2.0-with-font-exception",
+        "score": 0.8616
+      },
+      {
+        "spdx": "GNAT-exception",
+        "score": 0.6642
+      },
+      {
+        "spdx": "LicenseRef-scancode-musescore-exception-gpl-2.0",
+        "score": 0.6616
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.661
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.6493
+      }
+    ]
+  },
+  {
+    "id": "freertos-exception-2.0",
+    "true_spdx": "freertos-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-rxtx-exception-lgpl-2.1",
+    "top1_score": 0.601,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-rxtx-exception-lgpl-2.1",
+        "score": 0.601
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.5787
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.5779
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.5713
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.5629
+      }
+    ]
+  },
+  {
+    "id": "fujion-exception-to-apache-2.0",
+    "true_spdx": "LicenseRef-scancode-fujion-exception-to-apache-2.0",
+    "top1_pred": "LicenseRef-scancode-openmrs-exception-to-mpl-2.0",
+    "top1_score": 0.7535,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openmrs-exception-to-mpl-2.0",
+        "score": 0.7535
+      },
+      {
+        "spdx": "LicenseRef-scancode-drakvuf-exception-2.0",
+        "score": 0.2599
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.253
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.2084
+      },
+      {
+        "spdx": "LicenseRef-scancode-signal-gpl-3.0-exception",
+        "score": 0.1757
+      }
+    ]
+  },
+  {
+    "id": "gcc-compiler-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-gcc-compiler-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-linking-exception-2.0-plus",
+    "top1_score": 0.86,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.86
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.8337
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.8299
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+        "score": 0.8271
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.8046
+      }
+    ]
+  },
+  {
+    "id": "gcc-exception-2.0-note",
+    "true_spdx": "GCC-exception-2.0-note",
+    "top1_pred": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+    "top1_score": 0.8489,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.8489
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.8271
+      },
+      {
+        "spdx": "GCC-exception-2.0",
+        "score": 0.8094
+      },
+      {
+        "spdx": "Bootloader-exception",
+        "score": 0.7213
+      },
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.7199
+      }
+    ]
+  },
+  {
+    "id": "gcc-exception-3.0",
+    "true_spdx": "LicenseRef-scancode-gcc-exception-3.0",
+    "top1_pred": "GCC-exception-3.1",
+    "top1_score": 0.985,
+    "top5_candidates": [
+      {
+        "spdx": "GCC-exception-3.1",
+        "score": 0.985
+      },
+      {
+        "spdx": "GPL-3.0-with-GCC-exception",
+        "score": 0.8063
+      },
+      {
+        "spdx": "GPL-3.0-with-autoconf-exception",
+        "score": 0.6741
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.655
+      },
+      {
+        "spdx": "Autoconf-exception-3.0",
+        "score": 0.5962
+      }
+    ]
+  },
+  {
+    "id": "gcc-exception-3.1",
+    "true_spdx": "GCC-exception-3.1",
+    "top1_pred": "LicenseRef-scancode-gcc-exception-3.0",
+    "top1_score": 0.985,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-gcc-exception-3.0",
+        "score": 0.985
+      },
+      {
+        "spdx": "GPL-3.0-with-GCC-exception",
+        "score": 0.7956
+      },
+      {
+        "spdx": "GPL-3.0-with-autoconf-exception",
+        "score": 0.6711
+      },
+      {
+        "spdx": "Autoconf-exception-3.0",
+        "score": 0.6
+      },
+      {
+        "spdx": "LicenseRef-scancode-viewflow-agpl-3.0-exception",
+        "score": 0.5799
+      }
+    ]
+  },
+  {
+    "id": "gcc-linking-exception-2.0",
+    "true_spdx": "GCC-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+    "top1_score": 0.8647,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.8647
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.8558
+      },
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.8528
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.8094
+      },
+      {
+        "spdx": "Bootloader-exception",
+        "score": 0.726
+      }
+    ]
+  },
+  {
+    "id": "genode-agpl-3.0-exception",
+    "true_spdx": "LicenseRef-scancode-genode-agpl-3.0-exception",
+    "top1_pred": "LicenseRef-scancode-broadcom-linking-unmodified",
+    "top1_score": 0.4968,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.4968
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.4968
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.4616
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.4459
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.4313
+      }
+    ]
+  },
+  {
+    "id": "geoserver-exception-2.0-plus",
+    "true_spdx": "LicenseRef-scancode-geoserver-exception-2.0-plus",
+    "top1_pred": "LicenseRef-scancode-openssl-exception-gpl-2.0-plus",
+    "top1_score": 0.43,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-gpl-2.0-plus",
+        "score": 0.43
+      },
+      {
+        "spdx": "LicenseRef-scancode-sencha-dev-floss-exception",
+        "score": 0.4261
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.4196
+      },
+      {
+        "spdx": "LicenseRef-scancode-javascript-exception-2.0",
+        "score": 0.4119
+      },
+      {
+        "spdx": "LicenseRef-scancode-magpie-exception-1.0",
+        "score": 0.4054
+      }
+    ]
+  },
+  {
+    "id": "gigablast-apache-2.0-exception",
+    "true_spdx": "LicenseRef-scancode-gigablast-apache-2.0-exception",
+    "top1_pred": "LicenseRef-scancode-cockroachdb-use-grant-bsl-1.1",
+    "top1_score": 0.3534,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-cockroachdb-use-grant-bsl-1.1",
+        "score": 0.3534
+      },
+      {
+        "spdx": "LicenseRef-scancode-sencha-dev-floss-exception",
+        "score": 0.3328
+      },
+      {
+        "spdx": "LicenseRef-scancode-syntext-serna-exception-1.0",
+        "score": 0.3268
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-linking-exception-2018",
+        "score": 0.254
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.2497
+      }
+    ]
+  },
+  {
+    "id": "gmsh-exception",
+    "true_spdx": "Gmsh-exception",
+    "top1_pred": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+    "top1_score": 0.5497,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+        "score": 0.5497
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.4933
+      },
+      {
+        "spdx": "GPL-3.0-interface-exception",
+        "score": 0.4819
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-gpl-2.0-plus",
+        "score": 0.4776
+      },
+      {
+        "spdx": "LicenseRef-scancode-strongswan-exception",
+        "score": 0.4268
+      }
+    ]
+  },
+  {
+    "id": "gnome-examples-exception",
+    "true_spdx": "GNOME-examples-exception",
+    "top1_pred": "LicenseRef-scancode-unlimited-link-exception-gpl",
+    "top1_score": 0.5934,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.5934
+      },
+      {
+        "spdx": "WxWindows-exception-3.1",
+        "score": 0.5931
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.59
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.561
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.5164
+      }
+    ]
+  },
+  {
+    "id": "gnu-javamail-exception",
+    "true_spdx": "gnu-javamail-exception",
+    "top1_pred": "SWI-exception",
+    "top1_score": 0.9848,
+    "top5_candidates": [
+      {
+        "spdx": "SWI-exception",
+        "score": 0.9848
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.9771
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.9743
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+        "score": 0.9003
+      },
+      {
+        "spdx": "SANE-exception",
+        "score": 0.8732
+      }
+    ]
+  },
+  {
+    "id": "gpl-2.0-autoconf",
+    "true_spdx": "GPL-2.0-with-autoconf-exception",
+    "top1_pred": "GPL-2.0-with-GCC-exception",
+    "top1_score": 0.8105,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.8105
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.8091
+      },
+      {
+        "spdx": "Autoconf-exception-generic",
+        "score": 0.7271
+      },
+      {
+        "spdx": "Autoconf-exception-generic-3.0",
+        "score": 0.7094
+      },
+      {
+        "spdx": "Libtool-exception",
+        "score": 0.7076
+      }
+    ]
+  },
+  {
+    "id": "gpl-2.0-classpath",
+    "true_spdx": "GPL-2.0-with-classpath-exception",
+    "top1_pred": "GPL-2.0-with-GCC-exception",
+    "top1_score": 0.8535,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.8535
+      },
+      {
+        "spdx": "GPL-2.0-with-autoconf-exception",
+        "score": 0.8091
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.7971
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.7636
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.7038
+      }
+    ]
+  },
+  {
+    "id": "gpl-2.0-font",
+    "true_spdx": "GPL-2.0-with-font-exception",
+    "top1_pred": "Font-exception-2.0",
+    "top1_score": 0.8616,
+    "top5_candidates": [
+      {
+        "spdx": "Font-exception-2.0",
+        "score": 0.8616
+      },
+      {
+        "spdx": "GPL-2.0-with-autoconf-exception",
+        "score": 0.6485
+      },
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.6237
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.6007
+      },
+      {
+        "spdx": "LicenseRef-scancode-musescore-exception-gpl-2.0",
+        "score": 0.5919
+      }
+    ]
+  },
+  {
+    "id": "gpl-2.0-gcc",
+    "true_spdx": "GPL-2.0-with-GCC-exception",
+    "top1_pred": "GPL-2.0-with-classpath-exception",
+    "top1_score": 0.8535,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.8535
+      },
+      {
+        "spdx": "GCC-exception-2.0",
+        "score": 0.8528
+      },
+      {
+        "spdx": "GPL-2.0-with-autoconf-exception",
+        "score": 0.8105
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.7479
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.746
+      }
+    ]
+  },
+  {
+    "id": "gpl-3.0-389-ds-base-exception",
+    "true_spdx": "GPL-3.0-389-ds-base-exception",
+    "top1_pred": "LicenseRef-scancode-openpace-exception-gpl",
+    "top1_score": 0.9031,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openpace-exception-gpl",
+        "score": 0.9031
+      },
+      {
+        "spdx": "GPL-3.0-linking-source-exception",
+        "score": 0.8294
+      },
+      {
+        "spdx": "LicenseRef-scancode-clojure-exception-to-gpl-3.0",
+        "score": 0.8201
+      },
+      {
+        "spdx": "GPL-3.0-linking-exception",
+        "score": 0.8067
+      },
+      {
+        "spdx": "romic-exception",
+        "score": 0.6082
+      }
+    ]
+  },
+  {
+    "id": "gpl-3.0-autoconf",
+    "true_spdx": "GPL-3.0-with-autoconf-exception",
+    "top1_pred": "Autoconf-exception-3.0",
+    "top1_score": 0.777,
+    "top5_candidates": [
+      {
+        "spdx": "Autoconf-exception-3.0",
+        "score": 0.777
+      },
+      {
+        "spdx": "LicenseRef-scancode-gcc-exception-3.0",
+        "score": 0.6741
+      },
+      {
+        "spdx": "GCC-exception-3.1",
+        "score": 0.6711
+      },
+      {
+        "spdx": "GPL-3.0-with-GCC-exception",
+        "score": 0.6574
+      },
+      {
+        "spdx": "GPL-2.0-with-autoconf-exception",
+        "score": 0.6199
+      }
+    ]
+  },
+  {
+    "id": "gpl-3.0-gcc",
+    "true_spdx": "GPL-3.0-with-GCC-exception",
+    "top1_pred": "LicenseRef-scancode-gcc-exception-3.0",
+    "top1_score": 0.8063,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-gcc-exception-3.0",
+        "score": 0.8063
+      },
+      {
+        "spdx": "GCC-exception-3.1",
+        "score": 0.7956
+      },
+      {
+        "spdx": "GPL-3.0-with-autoconf-exception",
+        "score": 0.6574
+      },
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.6519
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.5773
+      }
+    ]
+  },
+  {
+    "id": "gpl-3.0-interface-exception",
+    "true_spdx": "GPL-3.0-interface-exception",
+    "top1_pred": "Classpath-exception-2.0",
+    "top1_score": 0.8107,
+    "top5_candidates": [
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.8107
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.781
+      },
+      {
+        "spdx": "GPL-3.0-linking-source-exception",
+        "score": 0.7286
+      },
+      {
+        "spdx": "GPL-3.0-linking-exception",
+        "score": 0.6976
+      },
+      {
+        "spdx": "LicenseRef-scancode-strongswan-exception",
+        "score": 0.6913
+      }
+    ]
+  },
+  {
+    "id": "gpl-3.0-linking-exception",
+    "true_spdx": "GPL-3.0-linking-exception",
+    "top1_pred": "LicenseRef-scancode-clojure-exception-to-gpl-3.0",
+    "top1_score": 0.9734,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-clojure-exception-to-gpl-3.0",
+        "score": 0.9734
+      },
+      {
+        "spdx": "GPL-3.0-linking-source-exception",
+        "score": 0.9626
+      },
+      {
+        "spdx": "LicenseRef-scancode-openpace-exception-gpl",
+        "score": 0.8411
+      },
+      {
+        "spdx": "GPL-3.0-389-ds-base-exception",
+        "score": 0.8067
+      },
+      {
+        "spdx": "GPL-3.0-interface-exception",
+        "score": 0.6976
+      }
+    ]
+  },
+  {
+    "id": "gpl-3.0-linking-source-exception",
+    "true_spdx": "GPL-3.0-linking-source-exception",
+    "top1_pred": "GPL-3.0-linking-exception",
+    "top1_score": 0.9626,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-3.0-linking-exception",
+        "score": 0.9626
+      },
+      {
+        "spdx": "LicenseRef-scancode-clojure-exception-to-gpl-3.0",
+        "score": 0.9369
+      },
+      {
+        "spdx": "LicenseRef-scancode-openpace-exception-gpl",
+        "score": 0.8685
+      },
+      {
+        "spdx": "GPL-3.0-389-ds-base-exception",
+        "score": 0.8294
+      },
+      {
+        "spdx": "GPL-3.0-interface-exception",
+        "score": 0.7286
+      }
+    ]
+  },
+  {
+    "id": "gplcc-1.0",
+    "true_spdx": "GPL-CC-1.0",
+    "top1_pred": "GPL-3.0-with-autoconf-exception",
+    "top1_score": 0.4257,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-3.0-with-autoconf-exception",
+        "score": 0.4257
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.3161
+      },
+      {
+        "spdx": "LicenseRef-scancode-drakvuf-exception-2.0",
+        "score": 0.3135
+      },
+      {
+        "spdx": "eCos-2.0",
+        "score": 0.2642
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.2584
+      }
+    ]
+  },
+  {
+    "id": "gstreamer-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-gstreamer-exception-2.0",
+    "top1_pred": "GStreamer-exception-2008",
+    "top1_score": 0.8062,
+    "top5_candidates": [
+      {
+        "spdx": "GStreamer-exception-2008",
+        "score": 0.8062
+      },
+      {
+        "spdx": "GStreamer-exception-2005",
+        "score": 0.6584
+      },
+      {
+        "spdx": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+        "score": 0.4457
+      },
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.3963
+      },
+      {
+        "spdx": "LicenseRef-scancode-spell-exception-lgpl-2.1-plus",
+        "score": 0.3794
+      }
+    ]
+  },
+  {
+    "id": "gstreamer-exception-2005",
+    "true_spdx": "GStreamer-exception-2005",
+    "top1_pred": "GStreamer-exception-2008",
+    "top1_score": 0.7443,
+    "top5_candidates": [
+      {
+        "spdx": "GStreamer-exception-2008",
+        "score": 0.7443
+      },
+      {
+        "spdx": "LicenseRef-scancode-gstreamer-exception-2.0",
+        "score": 0.6584
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-gpl-2.0-plus",
+        "score": 0.4304
+      },
+      {
+        "spdx": "LicenseRef-scancode-vcvrack-exception-to-gpl-3.0",
+        "score": 0.4112
+      },
+      {
+        "spdx": "LicenseRef-scancode-ice-exception-2.0",
+        "score": 0.4043
+      }
+    ]
+  },
+  {
+    "id": "gstreamer-exception-2008",
+    "true_spdx": "GStreamer-exception-2008",
+    "top1_pred": "LicenseRef-scancode-gstreamer-exception-2.0",
+    "top1_score": 0.8062,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-gstreamer-exception-2.0",
+        "score": 0.8062
+      },
+      {
+        "spdx": "GStreamer-exception-2005",
+        "score": 0.7443
+      },
+      {
+        "spdx": "LicenseRef-scancode-javascript-exception-2.0",
+        "score": 0.5246
+      },
+      {
+        "spdx": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+        "score": 0.511
+      },
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.4807
+      }
+    ]
+  },
+  {
+    "id": "guile-exception-2.0",
+    "true_spdx": "harbour-exception",
+    "top1_pred": "gnu-javamail-exception",
+    "top1_score": 0.7759,
+    "top5_candidates": [
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.7759
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.7696
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.7682
+      },
+      {
+        "spdx": "SANE-exception",
+        "score": 0.7676
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.7478
+      }
+    ]
+  },
+  {
+    "id": "i2p-gpl-java-exception",
+    "true_spdx": "i2p-gpl-java-exception",
+    "top1_pred": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+    "top1_score": 0.6614,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.6614
+      },
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.6346
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.6309
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.6261
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.6258
+      }
+    ]
+  },
+  {
+    "id": "ice-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-ice-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+    "top1_score": 0.5115,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.5115
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.1",
+        "score": 0.4613
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+        "score": 0.438
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.4329
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.2",
+        "score": 0.4207
+      }
+    ]
+  },
+  {
+    "id": "independent-module-linking-exception",
+    "true_spdx": "Independent-modules-exception",
+    "top1_pred": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+    "top1_score": 0.9998,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.9998
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.9356
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.8555
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.8161
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.8161
+      }
+    ]
+  },
+  {
+    "id": "inria-linking-exception",
+    "true_spdx": "QPL-1.0-INRIA-2004-exception",
+    "top1_pred": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+    "top1_score": 0.5049,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.5049
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.5003
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.4678
+      },
+      {
+        "spdx": "WxWindows-exception-3.1",
+        "score": 0.4429
+      },
+      {
+        "spdx": "LicenseRef-scancode-sencha-dev-floss-exception",
+        "score": 0.4308
+      }
+    ]
+  },
+  {
+    "id": "iolib-exception-2.0",
+    "true_spdx": "GNU-compiler-exception",
+    "top1_pred": "SWI-exception",
+    "top1_score": 0.9847,
+    "top5_candidates": [
+      {
+        "spdx": "SWI-exception",
+        "score": 0.9847
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.9771
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.9749
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+        "score": 0.9079
+      },
+      {
+        "spdx": "GNAT-exception",
+        "score": 0.8764
+      }
+    ]
+  },
+  {
+    "id": "javascript-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-javascript-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-spell-exception-lgpl-2.1-plus",
+    "top1_score": 0.5189,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-spell-exception-lgpl-2.1-plus",
+        "score": 0.5189
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.5172
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.5153
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.5075
+      },
+      {
+        "spdx": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+        "score": 0.4995
+      }
+    ]
+  },
+  {
+    "id": "kfqf-accepted-gpl",
+    "true_spdx": "LicenseRef-scancode-kfqf-accepted-gpl",
+    "top1_pred": "GPL-2.0-with-autoconf-exception",
+    "top1_score": 0.5854,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-2.0-with-autoconf-exception",
+        "score": 0.5854
+      },
+      {
+        "spdx": "eCos-2.0",
+        "score": 0.563
+      },
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.5319
+      },
+      {
+        "spdx": "GPL-3.0-with-autoconf-exception",
+        "score": 0.4488
+      },
+      {
+        "spdx": "LicenseRef-scancode-rtems-exception-2.0",
+        "score": 0.4069
+      }
+    ]
+  },
+  {
+    "id": "kicad-libraries-exception",
+    "true_spdx": "KiCad-libraries-exception",
+    "top1_pred": "SHL-2.1",
+    "top1_score": 0.4882,
+    "top5_candidates": [
+      {
+        "spdx": "SHL-2.1",
+        "score": 0.4882
+      },
+      {
+        "spdx": "LicenseRef-scancode-snapeda-design-exception-1.0",
+        "score": 0.4659
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.335
+      },
+      {
+        "spdx": "Qt-LGPL-exception-1.1",
+        "score": 0.319
+      },
+      {
+        "spdx": "LicenseRef-scancode-qskinny-exception-lgpl-2.1",
+        "score": 0.2917
+      }
+    ]
+  },
+  {
+    "id": "lgpl-3.0-linking-exception",
+    "true_spdx": "LGPL-3.0-linking-exception",
+    "top1_pred": "Fawkes-Runtime-exception",
+    "top1_score": 0.6776,
+    "top5_candidates": [
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.6776
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.6775
+      },
+      {
+        "spdx": "Independent-modules-exception",
+        "score": 0.6369
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.6347
+      },
+      {
+        "spdx": "GPL-2.0-with-classpath-exception",
+        "score": 0.5902
+      }
+    ]
+  },
+  {
+    "id": "liberation-font-exception",
+    "true_spdx": "LicenseRef-scancode-liberation-font-exception",
+    "top1_pred": "LicenseRef-scancode-npsl-exception-0.93",
+    "top1_score": 0.8863,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.93",
+        "score": 0.8863
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.8847
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.8845
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.8826
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.8086
+      }
+    ]
+  },
+  {
+    "id": "libpri-openh323-exception",
+    "true_spdx": "libpri-OpenH323-exception",
+    "top1_pred": "LicenseRef-scancode-sencha-app-floss-exception",
+    "top1_score": 0.4864,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-sencha-app-floss-exception",
+        "score": 0.4864
+      },
+      {
+        "spdx": "Independent-modules-exception",
+        "score": 0.4713
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.4701
+      },
+      {
+        "spdx": "LicenseRef-scancode-syntext-serna-exception-1.0",
+        "score": 0.4672
+      },
+      {
+        "spdx": "Asterisk-linking-protocols-exception",
+        "score": 0.4433
+      }
+    ]
+  },
+  {
+    "id": "libticables2-exception-gpl-2.0",
+    "true_spdx": "LicenseRef-scancode-libticables2-exception-gpl-2.0",
+    "top1_pred": "LicenseRef-scancode-subcommander-exception-2.0plus",
+    "top1_score": 0.4511,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.4511
+      },
+      {
+        "spdx": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+        "score": 0.4456
+      },
+      {
+        "spdx": "LicenseRef-scancode-spell-exception-lgpl-2.1-plus",
+        "score": 0.4351
+      },
+      {
+        "spdx": "LicenseRef-scancode-vym-exception-2.0",
+        "score": 0.4002
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.3865
+      }
+    ]
+  },
+  {
+    "id": "libtool-exception-2.0",
+    "true_spdx": "Libtool-exception",
+    "top1_pred": "LicenseRef-scancode-libtool-exception-lgpl",
+    "top1_score": 0.9939,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-libtool-exception-lgpl",
+        "score": 0.9939
+      },
+      {
+        "spdx": "Autoconf-exception-generic",
+        "score": 0.7733
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.7303
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.7161
+      },
+      {
+        "spdx": "GPL-2.0-with-autoconf-exception",
+        "score": 0.7076
+      }
+    ]
+  },
+  {
+    "id": "libtool-exception-lgpl",
+    "true_spdx": "LicenseRef-scancode-libtool-exception-lgpl",
+    "top1_pred": "Libtool-exception",
+    "top1_score": 0.9939,
+    "top5_candidates": [
+      {
+        "spdx": "Libtool-exception",
+        "score": 0.9939
+      },
+      {
+        "spdx": "Autoconf-exception-generic",
+        "score": 0.7653
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.7418
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.7221
+      },
+      {
+        "spdx": "GPL-2.0-with-autoconf-exception",
+        "score": 0.7017
+      }
+    ]
+  },
+  {
+    "id": "libwebsockets-exception",
+    "true_spdx": "LicenseRef-scancode-libwebsockets-exception",
+    "top1_pred": "GPL-3.0-interface-exception",
+    "top1_score": 0.6084,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-3.0-interface-exception",
+        "score": 0.6084
+      },
+      {
+        "spdx": "FLTK-exception",
+        "score": 0.5659
+      },
+      {
+        "spdx": "LicenseRef-scancode-mini-xml-exception-lgpl-2.0",
+        "score": 0.5463
+      },
+      {
+        "spdx": "Qwt-exception-1.0",
+        "score": 0.5302
+      },
+      {
+        "spdx": "LicenseRef-scancode-strongswan-exception",
+        "score": 0.5189
+      }
+    ]
+  },
+  {
+    "id": "linking-exception-2.0-plus",
+    "true_spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+    "top1_pred": "SWI-exception",
+    "top1_score": 0.9785,
+    "top5_candidates": [
+      {
+        "spdx": "SWI-exception",
+        "score": 0.9785
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.9749
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.9743
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+        "score": 0.8896
+      },
+      {
+        "spdx": "SANE-exception",
+        "score": 0.86
+      }
+    ]
+  },
+  {
+    "id": "linking-exception-2.1-plus",
+    "true_spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+    "top1_pred": "SWI-exception",
+    "top1_score": 0.9132,
+    "top5_candidates": [
+      {
+        "spdx": "SWI-exception",
+        "score": 0.9132
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.9079
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.9003
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.8896
+      },
+      {
+        "spdx": "GNAT-exception",
+        "score": 0.8638
+      }
+    ]
+  },
+  {
+    "id": "linking-exception-agpl-3.0",
+    "true_spdx": "romic-exception",
+    "top1_pred": "LicenseRef-scancode-clojure-exception-to-gpl-3.0",
+    "top1_score": 0.69,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-clojure-exception-to-gpl-3.0",
+        "score": 0.69
+      },
+      {
+        "spdx": "LicenseRef-scancode-civicrm-exception-to-agpl-3.0",
+        "score": 0.6676
+      },
+      {
+        "spdx": "GPL-3.0-linking-exception",
+        "score": 0.6627
+      },
+      {
+        "spdx": "GPL-3.0-linking-source-exception",
+        "score": 0.6465
+      },
+      {
+        "spdx": "GPL-3.0-389-ds-base-exception",
+        "score": 0.6082
+      }
+    ]
+  },
+  {
+    "id": "linking-exception-lgpl-2.0-plus",
+    "true_spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+    "top1_pred": "Independent-modules-exception",
+    "top1_score": 0.9998,
+    "top5_candidates": [
+      {
+        "spdx": "Independent-modules-exception",
+        "score": 0.9998
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.938
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.8545
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.82
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.82
+      }
+    ]
+  },
+  {
+    "id": "linux-syscall-exception-gpl",
+    "true_spdx": "Linux-syscall-note",
+    "top1_pred": "u-boot-exception-2.0",
+    "top1_score": 0.5955,
+    "top5_candidates": [
+      {
+        "spdx": "u-boot-exception-2.0",
+        "score": 0.5955
+      },
+      {
+        "spdx": "LicenseRef-scancode-xenomai-gpl-exception",
+        "score": 0.4775
+      },
+      {
+        "spdx": "LicenseRef-scancode-drakvuf-exception-2.0",
+        "score": 0.4689
+      },
+      {
+        "spdx": "LicenseRef-scancode-javascript-exception-2.0",
+        "score": 0.3723
+      },
+      {
+        "spdx": "stunnel-exception",
+        "score": 0.3226
+      }
+    ]
+  },
+  {
+    "id": "llgpl",
+    "true_spdx": "LLGPL",
+    "top1_pred": "LicenseRef-scancode-gcc-exception-3.0",
+    "top1_score": 0.6126,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-gcc-exception-3.0",
+        "score": 0.6126
+      },
+      {
+        "spdx": "GPL-3.0-with-GCC-exception",
+        "score": 0.5674
+      },
+      {
+        "spdx": "LicenseRef-scancode-drakvuf-exception-2.0",
+        "score": 0.5366
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.4951
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.4864
+      }
+    ]
+  },
+  {
+    "id": "llvm-exception",
+    "true_spdx": "LLVM-exception",
+    "top1_pred": "mxml-exception",
+    "top1_score": 0.8922,
+    "top5_candidates": [
+      {
+        "spdx": "mxml-exception",
+        "score": 0.8922
+      },
+      {
+        "spdx": "LicenseRef-scancode-compuphase-linking-exception",
+        "score": 0.6654
+      },
+      {
+        "spdx": "Swift-exception",
+        "score": 0.6368
+      },
+      {
+        "spdx": "fmt-exception",
+        "score": 0.5884
+      },
+      {
+        "spdx": "Universal-FOSS-exception-1.0",
+        "score": 0.4607
+      }
+    ]
+  },
+  {
+    "id": "lmbench-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-lmbench-exception-2.0",
+    "top1_pred": "Texinfo-exception",
+    "top1_score": 0.2967,
+    "top5_candidates": [
+      {
+        "spdx": "Texinfo-exception",
+        "score": 0.2967
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.2532
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.2493
+      },
+      {
+        "spdx": "OCaml-LGPL-linking-exception",
+        "score": 0.2482
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.2284
+      }
+    ]
+  },
+  {
+    "id": "lzma-cpl-exception",
+    "true_spdx": "LZMA-exception",
+    "top1_pred": "LicenseRef-scancode-lzma-sdk-2006-exception",
+    "top1_score": 0.5632,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-lzma-sdk-2006-exception",
+        "score": 0.5632
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.5015
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.4833
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.4809
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.4809
+      }
+    ]
+  },
+  {
+    "id": "lzma-sdk-2006-exception",
+    "true_spdx": "LicenseRef-scancode-lzma-sdk-2006-exception",
+    "top1_pred": "GPL-3.0-interface-exception",
+    "top1_score": 0.6,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-3.0-interface-exception",
+        "score": 0.6
+      },
+      {
+        "spdx": "LZMA-exception",
+        "score": 0.5632
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.518
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.5071
+      },
+      {
+        "spdx": "389-exception",
+        "score": 0.4805
+      }
+    ]
+  },
+  {
+    "id": "magpie-exception-1.0",
+    "true_spdx": "LicenseRef-scancode-magpie-exception-1.0",
+    "top1_pred": "LicenseRef-scancode-viewflow-agpl-3.0-exception",
+    "top1_score": 0.6548,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-viewflow-agpl-3.0-exception",
+        "score": 0.6548
+      },
+      {
+        "spdx": "LicenseRef-scancode-civicrm-exception-to-agpl-3.0",
+        "score": 0.615
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.5709
+      },
+      {
+        "spdx": "erlang-otp-linking-exception",
+        "score": 0.4953
+      },
+      {
+        "spdx": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+        "score": 0.4838
+      }
+    ]
+  },
+  {
+    "id": "make-human-exception",
+    "true_spdx": "LicenseRef-scancode-make-human-exception",
+    "top1_pred": "UBDL-exception",
+    "top1_score": 0.465,
+    "top5_candidates": [
+      {
+        "spdx": "UBDL-exception",
+        "score": 0.465
+      },
+      {
+        "spdx": "LicenseRef-scancode-upx-exception-2.0-plus",
+        "score": 0.4571
+      },
+      {
+        "spdx": "freertos-exception-2.0",
+        "score": 0.3834
+      },
+      {
+        "spdx": "LicenseRef-scancode-pretalx-exception-3.0",
+        "score": 0.3587
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.3008
+      }
+    ]
+  },
+  {
+    "id": "mif-exception",
+    "true_spdx": "mif-exception",
+    "top1_pred": "eCos-exception-2.0",
+    "top1_score": 0.8979,
+    "top5_candidates": [
+      {
+        "spdx": "eCos-exception-2.0",
+        "score": 0.8979
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.8547
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+        "score": 0.8401
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.8386
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.8307
+      }
+    ]
+  },
+  {
+    "id": "mini-xml-exception-lgpl-2.0",
+    "true_spdx": "LicenseRef-scancode-mini-xml-exception-lgpl-2.0",
+    "top1_pred": "LGPL-3.0-linking-exception",
+    "top1_score": 0.5784,
+    "top5_candidates": [
+      {
+        "spdx": "LGPL-3.0-linking-exception",
+        "score": 0.5784
+      },
+      {
+        "spdx": "LicenseRef-scancode-libwebsockets-exception",
+        "score": 0.5463
+      },
+      {
+        "spdx": "LicenseRef-scancode-strongswan-exception",
+        "score": 0.4945
+      },
+      {
+        "spdx": "Qwt-exception-1.0",
+        "score": 0.4641
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.4329
+      }
+    ]
+  },
+  {
+    "id": "mldonkey-exception-gpl-2.0",
+    "true_spdx": "LicenseRef-scancode-mldonkey-exception-gpl-2.0",
+    "top1_pred": "LicenseRef-scancode-asn1cc-exception-gpl-2.0",
+    "top1_score": 0.4929,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-asn1cc-exception-gpl-2.0",
+        "score": 0.4929
+      },
+      {
+        "spdx": "WxWindows-exception-3.1",
+        "score": 0.4565
+      },
+      {
+        "spdx": "UBDL-exception",
+        "score": 0.4314
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.4174
+      },
+      {
+        "spdx": "SHL-2.0",
+        "score": 0.4046
+      }
+    ]
+  },
+  {
+    "id": "musescore-exception-gpl-2.0",
+    "true_spdx": "LicenseRef-scancode-musescore-exception-gpl-2.0",
+    "top1_pred": "Font-exception-2.0",
+    "top1_score": 0.6616,
+    "top5_candidates": [
+      {
+        "spdx": "Font-exception-2.0",
+        "score": 0.6616
+      },
+      {
+        "spdx": "GPL-2.0-with-font-exception",
+        "score": 0.5919
+      },
+      {
+        "spdx": "eCos-exception-2.0",
+        "score": 0.5305
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.4901
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.4843
+      }
+    ]
+  },
+  {
+    "id": "musl-exception",
+    "true_spdx": "LicenseRef-scancode-musl-exception",
+    "top1_pred": "LicenseRef-scancode-civicrm-exception-to-agpl-3.0",
+    "top1_score": 0.4008,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-civicrm-exception-to-agpl-3.0",
+        "score": 0.4008
+      },
+      {
+        "spdx": "LicenseRef-scancode-viewflow-agpl-3.0-exception",
+        "score": 0.3704
+      },
+      {
+        "spdx": "Swift-exception",
+        "score": 0.3359
+      },
+      {
+        "spdx": "LicenseRef-scancode-bacula-exception",
+        "score": 0.319
+      },
+      {
+        "spdx": "LicenseRef-scancode-vcvrack-exception-to-gpl-3.0",
+        "score": 0.3074
+      }
+    ]
+  },
+  {
+    "id": "mysql-connector-odbc-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-mysql-con-odbc-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-mysql-linking-exception-2018",
+    "top1_score": 0.4223,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-mysql-linking-exception-2018",
+        "score": 0.4223
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.3849
+      },
+      {
+        "spdx": "Asterisk-linking-protocols-exception",
+        "score": 0.3753
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.3738
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.3654
+      }
+    ]
+  },
+  {
+    "id": "mysql-floss-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-alfresco-exception-0.5",
+    "top1_score": 0.9145,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-alfresco-exception-0.5",
+        "score": 0.9145
+      },
+      {
+        "spdx": "RRDtool-FLOSS-exception-2.0",
+        "score": 0.8385
+      },
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.8166
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.7693
+      },
+      {
+        "spdx": "LicenseRef-scancode-oracle-mysql-foss-exception2.0",
+        "score": 0.7276
+      }
+    ]
+  },
+  {
+    "id": "mysql-linking-exception-2018",
+    "true_spdx": "LicenseRef-scancode-mysql-linking-exception-2018",
+    "top1_pred": "GPL-3.0-389-ds-base-exception",
+    "top1_score": 0.5427,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-3.0-389-ds-base-exception",
+        "score": 0.5427
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-agpl3.0plus",
+        "score": 0.5262
+      },
+      {
+        "spdx": "LicenseRef-scancode-oracle-mysql-foss-exception2.0",
+        "score": 0.4908
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.4302
+      },
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.4194
+      }
+    ]
+  },
+  {
+    "id": "nant-exception-2.0-plus",
+    "true_spdx": "LicenseRef-scancode-nant-exception-2.0-plus",
+    "top1_pred": "LicenseRef-scancode-spell-exception-lgpl-2.1-plus",
+    "top1_score": 0.6823,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-spell-exception-lgpl-2.1-plus",
+        "score": 0.6823
+      },
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.6798
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.6787
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.6608
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.6532
+      }
+    ]
+  },
+  {
+    "id": "nicta-exception",
+    "true_spdx": "LicenseRef-scancode-nicta-exception",
+    "top1_pred": "LicenseRef-scancode-zrythm-exception-agpl-3.0",
+    "top1_score": 0.3332,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-zrythm-exception-agpl-3.0",
+        "score": 0.3332
+      },
+      {
+        "spdx": "LicenseRef-scancode-photoprism-exception-3.0",
+        "score": 0.2914
+      },
+      {
+        "spdx": "LicenseRef-scancode-civicrm-exception-to-agpl-3.0",
+        "score": 0.2776
+      },
+      {
+        "spdx": "Libtool-exception",
+        "score": 0.2457
+      },
+      {
+        "spdx": "LicenseRef-scancode-libtool-exception-lgpl",
+        "score": 0.2399
+      }
+    ]
+  },
+  {
+    "id": "npsl-exception-0.92",
+    "true_spdx": "LicenseRef-scancode-npsl-exception-0.92",
+    "top1_pred": "LicenseRef-scancode-npsl-exception-0.93",
+    "top1_score": 0.9907,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.93",
+        "score": 0.9907
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.9885
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.9527
+      },
+      {
+        "spdx": "LicenseRef-scancode-liberation-font-exception",
+        "score": 0.8845
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.8442
+      }
+    ]
+  },
+  {
+    "id": "npsl-exception-0.93",
+    "true_spdx": "LicenseRef-scancode-npsl-exception-0.93",
+    "top1_pred": "LicenseRef-scancode-npsl-exception-0.94",
+    "top1_score": 0.9957,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.9957
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.9907
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.9556
+      },
+      {
+        "spdx": "LicenseRef-scancode-liberation-font-exception",
+        "score": 0.8863
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.8479
+      }
+    ]
+  },
+  {
+    "id": "npsl-exception-0.94",
+    "true_spdx": "LicenseRef-scancode-npsl-exception-0.94",
+    "top1_pred": "LicenseRef-scancode-npsl-exception-0.93",
+    "top1_score": 0.9957,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.93",
+        "score": 0.9957
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.9885
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.9589
+      },
+      {
+        "spdx": "LicenseRef-scancode-liberation-font-exception",
+        "score": 0.8847
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.85
+      }
+    ]
+  },
+  {
+    "id": "npsl-exception-0.95",
+    "true_spdx": "LicenseRef-scancode-npsl-exception-0.95",
+    "top1_pred": "LicenseRef-scancode-npsl-exception-0.94",
+    "top1_score": 0.9589,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.9589
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.93",
+        "score": 0.9556
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.9527
+      },
+      {
+        "spdx": "LicenseRef-scancode-liberation-font-exception",
+        "score": 0.8826
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.8584
+      }
+    ]
+  },
+  {
+    "id": "object-form-exception-to-mit",
+    "true_spdx": "fmt-exception",
+    "top1_pred": "Swift-exception",
+    "top1_score": 0.6611,
+    "top5_candidates": [
+      {
+        "spdx": "Swift-exception",
+        "score": 0.6611
+      },
+      {
+        "spdx": "LLVM-exception",
+        "score": 0.5884
+      },
+      {
+        "spdx": "eCos-2.0",
+        "score": 0.5463
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.5383
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.538
+      }
+    ]
+  },
+  {
+    "id": "ocaml-lgpl-linking-exception",
+    "true_spdx": "OCaml-LGPL-linking-exception",
+    "top1_pred": "SWI-exception",
+    "top1_score": 0.635,
+    "top5_candidates": [
+      {
+        "spdx": "SWI-exception",
+        "score": 0.635
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.6349
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+        "score": 0.6294
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.6273
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.6251
+      }
+    ]
+  },
+  {
+    "id": "occt-exception-1.0",
+    "true_spdx": "OCCT-exception-1.0",
+    "top1_pred": "Digia-Qt-LGPL-exception-1.1",
+    "top1_score": 0.7078,
+    "top5_candidates": [
+      {
+        "spdx": "Digia-Qt-LGPL-exception-1.1",
+        "score": 0.7078
+      },
+      {
+        "spdx": "Qt-LGPL-exception-1.1",
+        "score": 0.5643
+      },
+      {
+        "spdx": "LicenseRef-scancode-spell-exception-lgpl-2.1-plus",
+        "score": 0.5157
+      },
+      {
+        "spdx": "LLGPL",
+        "score": 0.5034
+      },
+      {
+        "spdx": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+        "score": 0.4228
+      }
+    ]
+  },
+  {
+    "id": "openbd-exception-3.0",
+    "true_spdx": "LicenseRef-scancode-openbd-exception-3.0",
+    "top1_pred": "LicenseRef-scancode-syntext-serna-exception-1.0",
+    "top1_score": 0.4997,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-syntext-serna-exception-1.0",
+        "score": 0.4997
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-linking-exception-1.0",
+        "score": 0.4866
+      },
+      {
+        "spdx": "LicenseRef-scancode-sencha-dev-floss-exception",
+        "score": 0.4815
+      },
+      {
+        "spdx": "LLGPL",
+        "score": 0.4292
+      },
+      {
+        "spdx": "LGPL-3.0-linking-exception",
+        "score": 0.3824
+      }
+    ]
+  },
+  {
+    "id": "openjdk-assembly-exception-1.0",
+    "true_spdx": "OpenJDK-assembly-exception-1.0",
+    "top1_pred": "LicenseRef-scancode-openjdk-classpath-exception2.0",
+    "top1_score": 0.9291,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openjdk-classpath-exception2.0",
+        "score": 0.9291
+      },
+      {
+        "spdx": "LicenseRef-scancode-openjdk-exception",
+        "score": 0.7535
+      },
+      {
+        "spdx": "LicenseRef-scancode-oracle-openjdk-exception-2.0",
+        "score": 0.6964
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.5849
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.5661
+      }
+    ]
+  },
+  {
+    "id": "openjdk-classpath-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-openjdk-classpath-exception2.0",
+    "top1_pred": "OpenJDK-assembly-exception-1.0",
+    "top1_score": 0.9291,
+    "top5_candidates": [
+      {
+        "spdx": "OpenJDK-assembly-exception-1.0",
+        "score": 0.9291
+      },
+      {
+        "spdx": "LicenseRef-scancode-openjdk-exception",
+        "score": 0.7786
+      },
+      {
+        "spdx": "LicenseRef-scancode-oracle-openjdk-exception-2.0",
+        "score": 0.6281
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.5687
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.5647
+      }
+    ]
+  },
+  {
+    "id": "openjdk-exception",
+    "true_spdx": "LicenseRef-scancode-openjdk-exception",
+    "top1_pred": "LicenseRef-scancode-oracle-openjdk-exception-2.0",
+    "top1_score": 0.7899,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-oracle-openjdk-exception-2.0",
+        "score": 0.7899
+      },
+      {
+        "spdx": "LicenseRef-scancode-openjdk-classpath-exception2.0",
+        "score": 0.7786
+      },
+      {
+        "spdx": "OpenJDK-assembly-exception-1.0",
+        "score": 0.7535
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.6264
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.6171
+      }
+    ]
+  },
+  {
+    "id": "openmotif-exception-2.0-plus",
+    "true_spdx": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+    "top1_pred": "LicenseRef-scancode-spell-exception-lgpl-2.1-plus",
+    "top1_score": 0.6561,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-spell-exception-lgpl-2.1-plus",
+        "score": 0.6561
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.6109
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.6097
+      },
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.6091
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.6042
+      }
+    ]
+  },
+  {
+    "id": "openmrs-exception-to-mpl-2.0",
+    "true_spdx": "LicenseRef-scancode-openmrs-exception-to-mpl-2.0",
+    "top1_pred": "LicenseRef-scancode-fujion-exception-to-apache-2.0",
+    "top1_score": 0.7535,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-fujion-exception-to-apache-2.0",
+        "score": 0.7535
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-nokia-psk-contribution",
+        "score": 0.4583
+      },
+      {
+        "spdx": "LicenseRef-scancode-drakvuf-exception-2.0",
+        "score": 0.3626
+      },
+      {
+        "spdx": "LicenseRef-scancode-signal-gpl-3.0-exception",
+        "score": 0.3445
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.3279
+      }
+    ]
+  },
+  {
+    "id": "opensc-openssl-openpace-exception-gpl",
+    "true_spdx": "LicenseRef-scancode-openpace-exception-gpl",
+    "top1_pred": "GPL-3.0-389-ds-base-exception",
+    "top1_score": 0.9031,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-3.0-389-ds-base-exception",
+        "score": 0.9031
+      },
+      {
+        "spdx": "GPL-3.0-linking-source-exception",
+        "score": 0.8685
+      },
+      {
+        "spdx": "LicenseRef-scancode-clojure-exception-to-gpl-3.0",
+        "score": 0.8436
+      },
+      {
+        "spdx": "GPL-3.0-linking-exception",
+        "score": 0.8411
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-gpl-2.0-plus",
+        "score": 0.7212
+      }
+    ]
+  },
+  {
+    "id": "openssl-exception-agpl-3.0-monit",
+    "true_spdx": "LicenseRef-scancode-openssl-exception-agpl3.0monit",
+    "top1_pred": "LicenseRef-scancode-openssl-exception-agpl-3.0",
+    "top1_score": 0.8418,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-agpl-3.0",
+        "score": 0.8418
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-agpl3.0plus",
+        "score": 0.8302
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.7654
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.7564
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.7563
+      }
+    ]
+  },
+  {
+    "id": "openssl-exception-agpl-3.0-plus",
+    "true_spdx": "LicenseRef-scancode-openssl-exception-agpl3.0plus",
+    "top1_pred": "LicenseRef-scancode-openssl-exception-agpl-3.0",
+    "top1_score": 0.9816,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-agpl-3.0",
+        "score": 0.9816
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.9029
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.8996
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.899
+      },
+      {
+        "spdx": "x11vnc-openssl-exception",
+        "score": 0.8916
+      }
+    ]
+  },
+  {
+    "id": "openssl-exception-agpl-3.0",
+    "true_spdx": "LicenseRef-scancode-openssl-exception-agpl-3.0",
+    "top1_pred": "LicenseRef-scancode-openssl-exception-agpl3.0plus",
+    "top1_score": 0.9816,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-agpl3.0plus",
+        "score": 0.9816
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-mongodb-sspl",
+        "score": 0.8871
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.8849
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.8847
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.8825
+      }
+    ]
+  },
+  {
+    "id": "openssl-exception-gpl-2.0-plus",
+    "true_spdx": "LicenseRef-scancode-openssl-exception-gpl-2.0-plus",
+    "top1_pred": "cryptsetup-OpenSSL-exception",
+    "top1_score": 0.7247,
+    "top5_candidates": [
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.7247
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.7229
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.7184
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.7176
+      },
+      {
+        "spdx": "x11vnc-openssl-exception",
+        "score": 0.7053
+      }
+    ]
+  },
+  {
+    "id": "openssl-exception-gpl-2.0",
+    "true_spdx": "x11vnc-openssl-exception",
+    "top1_pred": "cryptsetup-OpenSSL-exception",
+    "top1_score": 0.9925,
+    "top5_candidates": [
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.9925
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.9915
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.9835
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.979
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-mongodb-sspl",
+        "score": 0.9388
+      }
+    ]
+  },
+  {
+    "id": "openssl-exception-gpl-3.0-plus",
+    "true_spdx": "cryptsetup-OpenSSL-exception",
+    "top1_pred": "LicenseRef-scancode-openssl-exception-lgpl",
+    "top1_score": 0.9979,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.9979
+      },
+      {
+        "spdx": "x11vnc-openssl-exception",
+        "score": 0.9925
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.9835
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.9812
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-mongodb-sspl",
+        "score": 0.9399
+      }
+    ]
+  },
+  {
+    "id": "openssl-exception-lgpl-2.0-plus",
+    "true_spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+    "top1_pred": "x11vnc-openssl-exception",
+    "top1_score": 0.9835,
+    "top5_candidates": [
+      {
+        "spdx": "x11vnc-openssl-exception",
+        "score": 0.9835
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.9835
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.9814
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.973
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-mongodb-sspl",
+        "score": 0.9323
+      }
+    ]
+  },
+  {
+    "id": "openssl-exception-lgpl-3.0-plus",
+    "true_spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+    "top1_pred": "LicenseRef-scancode-openssl-exception-lgpl",
+    "top1_score": 0.985,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.985
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.9812
+      },
+      {
+        "spdx": "x11vnc-openssl-exception",
+        "score": 0.979
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.973
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-mongodb-sspl",
+        "score": 0.9395
+      }
+    ]
+  },
+  {
+    "id": "openssl-exception-lgpl",
+    "true_spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+    "top1_pred": "cryptsetup-OpenSSL-exception",
+    "top1_score": 0.9979,
+    "top5_candidates": [
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.9979
+      },
+      {
+        "spdx": "x11vnc-openssl-exception",
+        "score": 0.9915
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.985
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.9814
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-mongodb-sspl",
+        "score": 0.9451
+      }
+    ]
+  },
+  {
+    "id": "openssl-exception-mongodb-sspl",
+    "true_spdx": "LicenseRef-scancode-openssl-exception-mongodb-sspl",
+    "top1_pred": "LicenseRef-scancode-openssl-exception-lgpl",
+    "top1_score": 0.9451,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.9451
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.9399
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.9395
+      },
+      {
+        "spdx": "x11vnc-openssl-exception",
+        "score": 0.9388
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.9323
+      }
+    ]
+  },
+  {
+    "id": "openssl-nokia-psk-contribution",
+    "true_spdx": "LicenseRef-scancode-openssl-nokia-psk-contribution",
+    "top1_pred": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+    "top1_score": 0.4557,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+        "score": 0.4557
+      },
+      {
+        "spdx": "LicenseRef-scancode-ecma-no-patent",
+        "score": 0.404
+      },
+      {
+        "spdx": "LicenseRef-scancode-syntext-serna-exception-1.0",
+        "score": 0.3937
+      },
+      {
+        "spdx": "LicenseRef-scancode-bacula-exception",
+        "score": 0.2983
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.2712
+      }
+    ]
+  },
+  {
+    "id": "openvpn-openssl-exception",
+    "true_spdx": "openvpn-openssl-exception",
+    "top1_pred": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+    "top1_score": 0.832,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.832
+      },
+      {
+        "spdx": "x11vnc-openssl-exception",
+        "score": 0.8282
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.8236
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.8223
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.8215
+      }
+    ]
+  },
+  {
+    "id": "oracle-mysql-foss-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-oracle-mysql-foss-exception2.0",
+    "top1_pred": "DigiRule-FOSS-exception",
+    "top1_score": 0.7592,
+    "top5_candidates": [
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.7592
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.7276
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.6991
+      },
+      {
+        "spdx": "LicenseRef-scancode-alfresco-exception-0.5",
+        "score": 0.6773
+      },
+      {
+        "spdx": "RRDtool-FLOSS-exception-2.0",
+        "score": 0.6595
+      }
+    ]
+  },
+  {
+    "id": "oracle-openjdk-classpath-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-oracle-openjdk-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-openjdk-exception",
+    "top1_score": 0.7899,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openjdk-exception",
+        "score": 0.7899
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.753
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.751
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.6929
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.6618
+      }
+    ]
+  },
+  {
+    "id": "pcre2-exception",
+    "true_spdx": "PCRE2-exception",
+    "top1_pred": "LicenseRef-scancode-broadcom-unmodified-exception",
+    "top1_score": 0.4855,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.4855
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.4855
+      },
+      {
+        "spdx": "UBDL-exception",
+        "score": 0.474
+      },
+      {
+        "spdx": "WxWindows-exception-3.1",
+        "score": 0.4398
+      },
+      {
+        "spdx": "CLISP-exception-2.0",
+        "score": 0.4358
+      }
+    ]
+  },
+  {
+    "id": "photoprism-exception-3.0",
+    "true_spdx": "LicenseRef-scancode-photoprism-exception-3.0",
+    "top1_pred": "LicenseRef-scancode-zrythm-exception-agpl-3.0",
+    "top1_score": 0.4552,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-zrythm-exception-agpl-3.0",
+        "score": 0.4552
+      },
+      {
+        "spdx": "LicenseRef-scancode-nicta-exception",
+        "score": 0.2914
+      },
+      {
+        "spdx": "SHL-2.0",
+        "score": 0.2757
+      },
+      {
+        "spdx": "SHL-2.1",
+        "score": 0.2384
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.2272
+      }
+    ]
+  },
+  {
+    "id": "pretalx-exception-3.0",
+    "true_spdx": "LicenseRef-scancode-pretalx-exception-3.0",
+    "top1_pred": "LicenseRef-scancode-pretix-exception-3.0",
+    "top1_score": 0.8919,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-pretix-exception-3.0",
+        "score": 0.8919
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.5944
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.93",
+        "score": 0.5888
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.5879
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.5878
+      }
+    ]
+  },
+  {
+    "id": "pretix-exception-3.0",
+    "true_spdx": "LicenseRef-scancode-pretix-exception-3.0",
+    "top1_pred": "LicenseRef-scancode-pretalx-exception-3.0",
+    "top1_score": 0.8919,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-pretalx-exception-3.0",
+        "score": 0.8919
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.551
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.5492
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.93",
+        "score": 0.5457
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.5453
+      }
+    ]
+  },
+  {
+    "id": "proguard-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-proguard-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-drakvuf-exception-2.0",
+    "top1_score": 0.5197,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-drakvuf-exception-2.0",
+        "score": 0.5197
+      },
+      {
+        "spdx": "LicenseRef-scancode-geoserver-exception-2.0-plus",
+        "score": 0.492
+      },
+      {
+        "spdx": "LicenseRef-scancode-asn1cc-exception-gpl-2.0",
+        "score": 0.4798
+      },
+      {
+        "spdx": "LicenseRef-scancode-upx-exception-2.0-plus",
+        "score": 0.4792
+      },
+      {
+        "spdx": "LicenseRef-scancode-sencha-dev-floss-exception",
+        "score": 0.4717
+      }
+    ]
+  },
+  {
+    "id": "ps-or-pdf-font-exception-20170817",
+    "true_spdx": "PS-or-PDF-font-exception-20170817",
+    "top1_pred": "GPL-2.0-with-font-exception",
+    "top1_score": 0.6266,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-2.0-with-font-exception",
+        "score": 0.6266
+      },
+      {
+        "spdx": "Font-exception-2.0",
+        "score": 0.6228
+      },
+      {
+        "spdx": "LicenseRef-scancode-civicrm-exception-to-agpl-3.0",
+        "score": 0.5368
+      },
+      {
+        "spdx": "LicenseRef-scancode-musescore-exception-gpl-2.0",
+        "score": 0.4936
+      },
+      {
+        "spdx": "Autoconf-exception-generic",
+        "score": 0.4851
+      }
+    ]
+  },
+  {
+    "id": "qcad-exception-gpl",
+    "true_spdx": "LicenseRef-scancode-qcad-exception-gpl",
+    "top1_pred": "Classpath-exception-2.0",
+    "top1_score": 0.7615,
+    "top5_candidates": [
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.7615
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.7175
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.6926
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.6659
+      },
+      {
+        "spdx": "Independent-modules-exception",
+        "score": 0.665
+      }
+    ]
+  },
+  {
+    "id": "qskinny-exception-lgpl-2.1",
+    "true_spdx": "LicenseRef-scancode-qskinny-exception-lgpl-2.1",
+    "top1_pred": "Qt-LGPL-exception-1.1",
+    "top1_score": 0.7057,
+    "top5_candidates": [
+      {
+        "spdx": "Qt-LGPL-exception-1.1",
+        "score": 0.7057
+      },
+      {
+        "spdx": "Digia-Qt-LGPL-exception-1.1",
+        "score": 0.6081
+      },
+      {
+        "spdx": "mif-exception",
+        "score": 0.4372
+      },
+      {
+        "spdx": "OCCT-exception-1.0",
+        "score": 0.4216
+      },
+      {
+        "spdx": "eCos-exception-2.0",
+        "score": 0.4002
+      }
+    ]
+  },
+  {
+    "id": "qt-company-exception-lgpl-2.1",
+    "true_spdx": "Digia-Qt-LGPL-exception-1.1",
+    "top1_pred": "Qt-LGPL-exception-1.1",
+    "top1_score": 0.7226,
+    "top5_candidates": [
+      {
+        "spdx": "Qt-LGPL-exception-1.1",
+        "score": 0.7226
+      },
+      {
+        "spdx": "OCCT-exception-1.0",
+        "score": 0.7078
+      },
+      {
+        "spdx": "LicenseRef-scancode-qskinny-exception-lgpl-2.1",
+        "score": 0.6081
+      },
+      {
+        "spdx": "LLGPL",
+        "score": 0.5111
+      },
+      {
+        "spdx": "mif-exception",
+        "score": 0.4756
+      }
+    ]
+  },
+  {
+    "id": "qt-gpl-exception-1.0",
+    "true_spdx": "Qt-GPL-exception-1.0",
+    "top1_pred": "LicenseRef-scancode-broadcom-linking-unmodified",
+    "top1_score": 0.6008,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.6008
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.6008
+      },
+      {
+        "spdx": "LicenseRef-scancode-qcad-exception-gpl",
+        "score": 0.574
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.5344
+      },
+      {
+        "spdx": "LicenseRef-scancode-rxtx-exception-lgpl-2.1",
+        "score": 0.5216
+      }
+    ]
+  },
+  {
+    "id": "qt-kde-linking-exception",
+    "true_spdx": "LicenseRef-scancode-qt-kde-linking-exception",
+    "top1_pred": "LicenseRef-scancode-subcommander-exception-2.0plus",
+    "top1_score": 0.8179,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.8179
+      },
+      {
+        "spdx": "LicenseRef-scancode-qt-qca-exception-2.0",
+        "score": 0.8138
+      },
+      {
+        "spdx": "Qt-GPL-exception-1.0",
+        "score": 0.7092
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-agpl3.0monit",
+        "score": 0.5314
+      },
+      {
+        "spdx": "harbour-exception",
+        "score": 0.5304
+      }
+    ]
+  },
+  {
+    "id": "qt-lgpl-exception-1.1",
+    "true_spdx": "Qt-LGPL-exception-1.1",
+    "top1_pred": "Digia-Qt-LGPL-exception-1.1",
+    "top1_score": 0.7226,
+    "top5_candidates": [
+      {
+        "spdx": "Digia-Qt-LGPL-exception-1.1",
+        "score": 0.7226
+      },
+      {
+        "spdx": "LicenseRef-scancode-qskinny-exception-lgpl-2.1",
+        "score": 0.7057
+      },
+      {
+        "spdx": "GPL-3.0-interface-exception",
+        "score": 0.597
+      },
+      {
+        "spdx": "Fawkes-Runtime-exception",
+        "score": 0.5758
+      },
+      {
+        "spdx": "OCCT-exception-1.0",
+        "score": 0.5643
+      }
+    ]
+  },
+  {
+    "id": "qt-qca-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-qt-qca-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-qt-kde-linking-exception",
+    "top1_score": 0.8138,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-qt-kde-linking-exception",
+        "score": 0.8138
+      },
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.7247
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.4998
+      },
+      {
+        "spdx": "LicenseRef-scancode-vcvrack-exception-to-gpl-3.0",
+        "score": 0.4703
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.4541
+      }
+    ]
+  },
+  {
+    "id": "qwt-exception-1.0",
+    "true_spdx": "Qwt-exception-1.0",
+    "top1_pred": "FLTK-exception",
+    "top1_score": 0.5795,
+    "top5_candidates": [
+      {
+        "spdx": "FLTK-exception",
+        "score": 0.5795
+      },
+      {
+        "spdx": "LicenseRef-scancode-libwebsockets-exception",
+        "score": 0.5302
+      },
+      {
+        "spdx": "LicenseRef-scancode-mini-xml-exception-lgpl-2.0",
+        "score": 0.4641
+      },
+      {
+        "spdx": "LGPL-3.0-linking-exception",
+        "score": 0.4206
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.3741
+      }
+    ]
+  },
+  {
+    "id": "reactos-exception-gpl-2.0",
+    "true_spdx": "LicenseRef-scancode-reactos-exception-gpl-2.0",
+    "top1_pred": "LicenseRef-scancode-proguard-exception-2.0",
+    "top1_score": 0.5394,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-proguard-exception-2.0",
+        "score": 0.5394
+      },
+      {
+        "spdx": "LicenseRef-scancode-vcvrack-exception-to-gpl-3.0",
+        "score": 0.4417
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+        "score": 0.4392
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.1",
+        "score": 0.4339
+      },
+      {
+        "spdx": "Swift-exception",
+        "score": 0.4063
+      }
+    ]
+  },
+  {
+    "id": "rrdtool-floss-exception-2.0",
+    "true_spdx": "RRDtool-FLOSS-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-mysql-floss-exception-2.0",
+    "top1_score": 0.8385,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.8385
+      },
+      {
+        "spdx": "LicenseRef-scancode-alfresco-exception-0.5",
+        "score": 0.7995
+      },
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.7697
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.6995
+      },
+      {
+        "spdx": "LicenseRef-scancode-sencha-app-floss-exception",
+        "score": 0.6627
+      }
+    ]
+  },
+  {
+    "id": "rtems-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-rtems-exception-2.0",
+    "top1_pred": "mif-exception",
+    "top1_score": 0.6086,
+    "top5_candidates": [
+      {
+        "spdx": "mif-exception",
+        "score": 0.6086
+      },
+      {
+        "spdx": "GPL-2.0-with-font-exception",
+        "score": 0.5704
+      },
+      {
+        "spdx": "GNAT-exception",
+        "score": 0.5541
+      },
+      {
+        "spdx": "eCos-2.0",
+        "score": 0.5509
+      },
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.5238
+      }
+    ]
+  },
+  {
+    "id": "rxtx-exception-lgpl-2.1",
+    "true_spdx": "LicenseRef-scancode-rxtx-exception-lgpl-2.1",
+    "top1_pred": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+    "top1_score": 0.6741,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.6741
+      },
+      {
+        "spdx": "LicenseRef-scancode-avisynth-linking-exception",
+        "score": 0.6303
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.6171
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.6085
+      },
+      {
+        "spdx": "GPL-3.0-interface-exception",
+        "score": 0.5861
+      }
+    ]
+  },
+  {
+    "id": "sane-exception-2.0-plus",
+    "true_spdx": "SANE-exception",
+    "top1_pred": "gnu-javamail-exception",
+    "top1_score": 0.8732,
+    "top5_candidates": [
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.8732
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.8635
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.8627
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.86
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+        "score": 0.7866
+      }
+    ]
+  },
+  {
+    "id": "sencha-app-floss-exception",
+    "true_spdx": "LicenseRef-scancode-sencha-app-floss-exception",
+    "top1_pred": "LicenseRef-scancode-sencha-dev-floss-exception",
+    "top1_score": 0.8837,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-sencha-dev-floss-exception",
+        "score": 0.8837
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.7029
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.6907
+      },
+      {
+        "spdx": "LicenseRef-scancode-syntext-serna-exception-1.0",
+        "score": 0.6852
+      },
+      {
+        "spdx": "LicenseRef-scancode-alfresco-exception-0.5",
+        "score": 0.6741
+      }
+    ]
+  },
+  {
+    "id": "sencha-dev-floss-exception",
+    "true_spdx": "LicenseRef-scancode-sencha-dev-floss-exception",
+    "top1_pred": "LicenseRef-scancode-sencha-app-floss-exception",
+    "top1_score": 0.8837,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-sencha-app-floss-exception",
+        "score": 0.8837
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.6546
+      },
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.6342
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.6256
+      },
+      {
+        "spdx": "LicenseRef-scancode-alfresco-exception-0.5",
+        "score": 0.6216
+      }
+    ]
+  },
+  {
+    "id": "shl-2.0",
+    "true_spdx": "SHL-2.0",
+    "top1_pred": "SHL-2.1",
+    "top1_score": 0.8599,
+    "top5_candidates": [
+      {
+        "spdx": "SHL-2.1",
+        "score": 0.8599
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.6691
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.6504
+      },
+      {
+        "spdx": "LicenseRef-scancode-liberation-font-exception",
+        "score": 0.6458
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.6444
+      }
+    ]
+  },
+  {
+    "id": "shl-2.1",
+    "true_spdx": "SHL-2.1",
+    "top1_pred": "SHL-2.0",
+    "top1_score": 0.8599,
+    "top5_candidates": [
+      {
+        "spdx": "SHL-2.0",
+        "score": 0.8599
+      },
+      {
+        "spdx": "LicenseRef-scancode-accountability-commercial-1.1",
+        "score": 0.6589
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.6391
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.6301
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.6271
+      }
+    ]
+  },
+  {
+    "id": "signal-gpl-3.0-exception",
+    "true_spdx": "LicenseRef-scancode-signal-gpl-3.0-exception",
+    "top1_pred": "GPL-3.0-389-ds-base-exception",
+    "top1_score": 0.5261,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-3.0-389-ds-base-exception",
+        "score": 0.5261
+      },
+      {
+        "spdx": "LicenseRef-scancode-clojure-exception-to-gpl-3.0",
+        "score": 0.5082
+      },
+      {
+        "spdx": "LicenseRef-scancode-openpace-exception-gpl",
+        "score": 0.4954
+      },
+      {
+        "spdx": "GPL-3.0-linking-exception",
+        "score": 0.4912
+      },
+      {
+        "spdx": "GPL-3.0-linking-source-exception",
+        "score": 0.4733
+      }
+    ]
+  },
+  {
+    "id": "snapeda-design-exception-1.0",
+    "true_spdx": "LicenseRef-scancode-snapeda-design-exception-1.0",
+    "top1_pred": "KiCad-libraries-exception",
+    "top1_score": 0.4659,
+    "top5_candidates": [
+      {
+        "spdx": "KiCad-libraries-exception",
+        "score": 0.4659
+      },
+      {
+        "spdx": "GNOME-examples-exception",
+        "score": 0.3686
+      },
+      {
+        "spdx": "SHL-2.1",
+        "score": 0.3341
+      },
+      {
+        "spdx": "Bootloader-exception",
+        "score": 0.3333
+      },
+      {
+        "spdx": "GCC-exception-2.0",
+        "score": 0.308
+      }
+    ]
+  },
+  {
+    "id": "spell-checker-exception-lgpl-2.1-plus",
+    "true_spdx": "LicenseRef-scancode-spell-exception-lgpl-2.1-plus",
+    "top1_pred": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+    "top1_score": 0.6561,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openmotif-exception-2.0-plus",
+        "score": 0.6561
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.6116
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.6053
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.6021
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.5956
+      }
+    ]
+  },
+  {
+    "id": "strongswan-exception",
+    "true_spdx": "LicenseRef-scancode-strongswan-exception",
+    "top1_pred": "GPL-3.0-interface-exception",
+    "top1_score": 0.6913,
+    "top5_candidates": [
+      {
+        "spdx": "GPL-3.0-interface-exception",
+        "score": 0.6913
+      },
+      {
+        "spdx": "stunnel-exception",
+        "score": 0.6163
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.6066
+      },
+      {
+        "spdx": "LicenseRef-scancode-rxtx-exception-lgpl-2.1",
+        "score": 0.5218
+      },
+      {
+        "spdx": "openvpn-openssl-exception",
+        "score": 0.5215
+      }
+    ]
+  },
+  {
+    "id": "stunnel-exception",
+    "true_spdx": "stunnel-exception",
+    "top1_pred": "LicenseRef-scancode-strongswan-exception",
+    "top1_score": 0.6163,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-strongswan-exception",
+        "score": 0.6163
+      },
+      {
+        "spdx": "GPL-3.0-interface-exception",
+        "score": 0.5873
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.5618
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.4898
+      },
+      {
+        "spdx": "LicenseRef-scancode-qcad-exception-gpl",
+        "score": 0.4785
+      }
+    ]
+  },
+  {
+    "id": "subcommander-exception-2.0-plus",
+    "true_spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+    "top1_pred": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+    "top1_score": 0.6814,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.6814
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.6744
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.6681
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.6566
+      },
+      {
+        "spdx": "LicenseRef-scancode-vym-exception-2.0",
+        "score": 0.6523
+      }
+    ]
+  },
+  {
+    "id": "swi-exception",
+    "true_spdx": "SWI-exception",
+    "top1_pred": "gnu-javamail-exception",
+    "top1_score": 0.9848,
+    "top5_candidates": [
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.9848
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.9847
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.0-plus",
+        "score": 0.9785
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+        "score": 0.9132
+      },
+      {
+        "spdx": "GNAT-exception",
+        "score": 0.8728
+      }
+    ]
+  },
+  {
+    "id": "syntext-serna-exception-1.0",
+    "true_spdx": "LicenseRef-scancode-syntext-serna-exception-1.0",
+    "top1_pred": "LicenseRef-scancode-sencha-app-floss-exception",
+    "top1_score": 0.6852,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-sencha-app-floss-exception",
+        "score": 0.6852
+      },
+      {
+        "spdx": "LicenseRef-scancode-dbmx-foss-exception-1.0.9",
+        "score": 0.6725
+      },
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.6494
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+        "score": 0.6241
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.1",
+        "score": 0.6183
+      }
+    ]
+  },
+  {
+    "id": "tex-exception",
+    "true_spdx": "Texinfo-exception",
+    "top1_pred": "Autoconf-exception-generic-3.0",
+    "top1_score": 0.6531,
+    "top5_candidates": [
+      {
+        "spdx": "Autoconf-exception-generic-3.0",
+        "score": 0.6531
+      },
+      {
+        "spdx": "LicenseRef-scancode-civicrm-exception-to-agpl-3.0",
+        "score": 0.6278
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.6029
+      },
+      {
+        "spdx": "Font-exception-2.0",
+        "score": 0.525
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.5113
+      }
+    ]
+  },
+  {
+    "id": "trolltech-gpl-exception-1.0",
+    "true_spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+    "top1_pred": "LicenseRef-scancode-trolltech-gpl-exception-1.1",
+    "top1_score": 0.9772,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.1",
+        "score": 0.9772
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.2",
+        "score": 0.9298
+      },
+      {
+        "spdx": "RRDtool-FLOSS-exception-2.0",
+        "score": 0.6602
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.646
+      },
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.6305
+      }
+    ]
+  },
+  {
+    "id": "trolltech-gpl-exception-1.1",
+    "true_spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.1",
+    "top1_pred": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+    "top1_score": 0.9772,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+        "score": 0.9772
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.2",
+        "score": 0.9291
+      },
+      {
+        "spdx": "RRDtool-FLOSS-exception-2.0",
+        "score": 0.6578
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.6571
+      },
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.642
+      }
+    ]
+  },
+  {
+    "id": "trolltech-gpl-exception-1.2",
+    "true_spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.2",
+    "top1_pred": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+    "top1_score": 0.9298,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+        "score": 0.9298
+      },
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.1",
+        "score": 0.9291
+      },
+      {
+        "spdx": "RRDtool-FLOSS-exception-2.0",
+        "score": 0.6369
+      },
+      {
+        "spdx": "LicenseRef-scancode-mysql-floss-exception-2.0",
+        "score": 0.6009
+      },
+      {
+        "spdx": "DigiRule-FOSS-exception",
+        "score": 0.5926
+      }
+    ]
+  },
+  {
+    "id": "u-boot-exception-2.0",
+    "true_spdx": "u-boot-exception-2.0",
+    "top1_pred": "Linux-syscall-note",
+    "top1_score": 0.5955,
+    "top5_candidates": [
+      {
+        "spdx": "Linux-syscall-note",
+        "score": 0.5955
+      },
+      {
+        "spdx": "LicenseRef-scancode-xenomai-gpl-exception",
+        "score": 0.4283
+      },
+      {
+        "spdx": "LicenseRef-scancode-gcc-compiler-exception-2.0",
+        "score": 0.3991
+      },
+      {
+        "spdx": "LicenseRef-scancode-drakvuf-exception-2.0",
+        "score": 0.3981
+      },
+      {
+        "spdx": "LicenseRef-scancode-musl-exception",
+        "score": 0.3966
+      }
+    ]
+  },
+  {
+    "id": "ubdl",
+    "true_spdx": "UBDL-exception",
+    "top1_pred": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+    "top1_score": 0.6161,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-trolltech-gpl-exception-1.0",
+        "score": 0.6161
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.6032
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.5943
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.5928
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.5915
+      }
+    ]
+  },
+  {
+    "id": "universal-foss-exception-1.0",
+    "true_spdx": "Universal-FOSS-exception-1.0",
+    "top1_pred": "389-exception",
+    "top1_score": 0.5693,
+    "top5_candidates": [
+      {
+        "spdx": "389-exception",
+        "score": 0.5693
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.5336
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.5297
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.93",
+        "score": 0.5287
+      },
+      {
+        "spdx": "LicenseRef-scancode-liberation-font-exception",
+        "score": 0.5249
+      }
+    ]
+  },
+  {
+    "id": "unlimited-binary-linking",
+    "true_spdx": "LicenseRef-scancode-unlimited-binary-linking",
+    "top1_pred": "LicenseRef-scancode-unlimited-binary-use-exception",
+    "top1_score": 1.0,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-unlimited-binary-use-exception",
+        "score": 1.0
+      },
+      {
+        "spdx": "LicenseRef-scancode-asn1cc-exception-gpl-2.0",
+        "score": 0.6087
+      },
+      {
+        "spdx": "WxWindows-exception-3.1",
+        "score": 0.5893
+      },
+      {
+        "spdx": "polyparse-exception",
+        "score": 0.5827
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.5228
+      }
+    ]
+  },
+  {
+    "id": "unlimited-binary-use-exception",
+    "true_spdx": "LicenseRef-scancode-unlimited-binary-use-exception",
+    "top1_pred": "LicenseRef-scancode-unlimited-binary-linking",
+    "top1_score": 1.0,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-unlimited-binary-linking",
+        "score": 1.0
+      },
+      {
+        "spdx": "LicenseRef-scancode-asn1cc-exception-gpl-2.0",
+        "score": 0.6087
+      },
+      {
+        "spdx": "WxWindows-exception-3.1",
+        "score": 0.5893
+      },
+      {
+        "spdx": "polyparse-exception",
+        "score": 0.5827
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.5228
+      }
+    ]
+  },
+  {
+    "id": "unlimited-linking-exception-gpl",
+    "true_spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+    "top1_pred": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+    "top1_score": 0.9849,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.9849
+      },
+      {
+        "spdx": "GCC-exception-2.0",
+        "score": 0.8558
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.8271
+      },
+      {
+        "spdx": "Bootloader-exception",
+        "score": 0.7557
+      },
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.746
+      }
+    ]
+  },
+  {
+    "id": "unlimited-linking-exception-lgpl",
+    "true_spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+    "top1_pred": "LicenseRef-scancode-unlimited-link-exception-gpl",
+    "top1_score": 0.9849,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.9849
+      },
+      {
+        "spdx": "GCC-exception-2.0",
+        "score": 0.8647
+      },
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.8489
+      },
+      {
+        "spdx": "Bootloader-exception",
+        "score": 0.7548
+      },
+      {
+        "spdx": "GPL-2.0-with-GCC-exception",
+        "score": 0.7479
+      }
+    ]
+  },
+  {
+    "id": "upx-exception-2.0-plus",
+    "true_spdx": "LicenseRef-scancode-upx-exception-2.0-plus",
+    "top1_pred": "GCC-exception-2.0-note",
+    "top1_score": 0.5934,
+    "top5_candidates": [
+      {
+        "spdx": "GCC-exception-2.0-note",
+        "score": 0.5934
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-lgpl",
+        "score": 0.5876
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-link-exception-gpl",
+        "score": 0.5839
+      },
+      {
+        "spdx": "UBDL-exception",
+        "score": 0.5653
+      },
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.5237
+      }
+    ]
+  },
+  {
+    "id": "vcvrack-exception-to-gpl-3.0",
+    "true_spdx": "LicenseRef-scancode-vcvrack-exception-to-gpl-3.0",
+    "top1_pred": "LicenseRef-scancode-broadcom-unmodified-exception",
+    "top1_score": 0.5264,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.5264
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.5264
+      },
+      {
+        "spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+        "score": 0.5162
+      },
+      {
+        "spdx": "LicenseRef-scancode-codelite-exception-to-gpl",
+        "score": 0.4821
+      },
+      {
+        "spdx": "LicenseRef-scancode-qt-qca-exception-2.0",
+        "score": 0.4703
+      }
+    ]
+  },
+  {
+    "id": "viewflow-agpl-3.0-exception",
+    "true_spdx": "LicenseRef-scancode-viewflow-agpl-3.0-exception",
+    "top1_pred": "LicenseRef-scancode-magpie-exception-1.0",
+    "top1_score": 0.6548,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-magpie-exception-1.0",
+        "score": 0.6548
+      },
+      {
+        "spdx": "romic-exception",
+        "score": 0.6049
+      },
+      {
+        "spdx": "GPL-3.0-389-ds-base-exception",
+        "score": 0.5699
+      },
+      {
+        "spdx": "LicenseRef-scancode-openpace-exception-gpl",
+        "score": 0.5591
+      },
+      {
+        "spdx": "GPL-3.0-linking-source-exception",
+        "score": 0.558
+      }
+    ]
+  },
+  {
+    "id": "vsftpd-openssl-exception",
+    "true_spdx": "vsftpd-openssl-exception",
+    "top1_pred": "LicenseRef-scancode-openssl-exception-gpl-2.0-plus",
+    "top1_score": 0.562,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-gpl-2.0-plus",
+        "score": 0.562
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.5123
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-agpl3.0monit",
+        "score": 0.5111
+      },
+      {
+        "spdx": "x11vnc-openssl-exception",
+        "score": 0.4877
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.479
+      }
+    ]
+  },
+  {
+    "id": "vym-exception-2.0",
+    "true_spdx": "LicenseRef-scancode-vym-exception-2.0",
+    "top1_pred": "LicenseRef-scancode-subcommander-exception-2.0plus",
+    "top1_score": 0.6523,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.6523
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl3.0plus",
+        "score": 0.4848
+      },
+      {
+        "spdx": "cryptsetup-OpenSSL-exception",
+        "score": 0.465
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl",
+        "score": 0.4601
+      },
+      {
+        "spdx": "x11vnc-openssl-exception",
+        "score": 0.4522
+      }
+    ]
+  },
+  {
+    "id": "wxwindows-exception-3.1",
+    "true_spdx": "WxWindows-exception-3.1",
+    "top1_pred": "LicenseRef-scancode-autoopts-exception-2.0",
+    "top1_score": 0.6747,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-autoopts-exception-2.0",
+        "score": 0.6747
+      },
+      {
+        "spdx": "LicenseRef-scancode-subcommander-exception-2.0plus",
+        "score": 0.6072
+      },
+      {
+        "spdx": "LicenseRef-scancode-asn1cc-exception-gpl-2.0",
+        "score": 0.6057
+      },
+      {
+        "spdx": "LicenseRef-scancode-openssl-exception-lgpl2.0plus",
+        "score": 0.5953
+      },
+      {
+        "spdx": "LicenseRef-scancode-unlimited-binary-linking",
+        "score": 0.5893
+      }
+    ]
+  },
+  {
+    "id": "xenomai-gpl-exception",
+    "true_spdx": "LicenseRef-scancode-xenomai-gpl-exception",
+    "top1_pred": "gnu-javamail-exception",
+    "top1_score": 0.6615,
+    "top5_candidates": [
+      {
+        "spdx": "gnu-javamail-exception",
+        "score": 0.6615
+      },
+      {
+        "spdx": "SWI-exception",
+        "score": 0.6567
+      },
+      {
+        "spdx": "GNU-compiler-exception",
+        "score": 0.6405
+      },
+      {
+        "spdx": "GNAT-exception",
+        "score": 0.6399
+      },
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-2.1-plus",
+        "score": 0.6354
+      }
+    ]
+  },
+  {
+    "id": "zeromq-exception-lgpl-3.0",
+    "true_spdx": "LicenseRef-scancode-zeromq-exception-lgpl-3.0",
+    "top1_pred": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+    "top1_score": 0.938,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-linking-exception-lgpl-2.0plus",
+        "score": 0.938
+      },
+      {
+        "spdx": "Independent-modules-exception",
+        "score": 0.9356
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "score": 0.9155
+      },
+      {
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "score": 0.9155
+      },
+      {
+        "spdx": "Classpath-exception-2.0",
+        "score": 0.8506
+      }
+    ]
+  },
+  {
+    "id": "zrythm-exception-agpl-3.0",
+    "true_spdx": "LicenseRef-scancode-zrythm-exception-agpl-3.0",
+    "top1_pred": "LicenseRef-scancode-liberation-font-exception",
+    "top1_score": 0.4851,
+    "top5_candidates": [
+      {
+        "spdx": "LicenseRef-scancode-liberation-font-exception",
+        "score": 0.4851
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.95",
+        "score": 0.4796
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.94",
+        "score": 0.474
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.93",
+        "score": 0.4624
+      },
+      {
+        "spdx": "LicenseRef-scancode-npsl-exception-0.92",
+        "score": 0.4578
+      }
+    ]
+  }
+]

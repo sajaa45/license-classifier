@@ -822,11 +822,11 @@
         "score": 0.2422
       },
       {
-        "spdx": "LicenseRef-scancode-unlimited-binary-use-exception",
+        "spdx": "LicenseRef-scancode-unlimited-binary-linking",
         "score": 0.2418
       },
       {
-        "spdx": "LicenseRef-scancode-unlimited-binary-linking",
+        "spdx": "LicenseRef-scancode-unlimited-binary-use-exception",
         "score": 0.2418
       },
       {
@@ -1142,7 +1142,7 @@
         "score": 0.5338
       },
       {
-        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
         "score": 0.5103
       }
     ]
@@ -1446,11 +1446,11 @@
         "score": 0.1828
       },
       {
-        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
+        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
         "score": 0.1743
       },
       {
-        "spdx": "LicenseRef-scancode-broadcom-unmodified-exception",
+        "spdx": "LicenseRef-scancode-broadcom-linking-unmodified",
         "score": 0.1743
       }
     ]
@@ -5510,7 +5510,7 @@
         "score": 0.2947
       },
       {
-        "spdx": "LicenseRef-scancode-unlimited-binary-use-exception",
+        "spdx": "LicenseRef-scancode-unlimited-binary-linking",
         "score": 0.2945
       }
     ]

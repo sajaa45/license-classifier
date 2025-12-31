@@ -1,2 +1,4 @@
 discord.xml
-.idea/*
+.idea
+.venv
+.idea/discord.xml
